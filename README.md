@@ -13,6 +13,7 @@ My name is Larissa Cristina (but you can call me Mewmew), I'm from 🇧🇷 Braz
  - 💬 I am very **empathetic** and **creative**, I like to share my crazy things with someone and help them when necessary.
  
 **Find Me**
+
 [
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=[thing]https://www.linkedin.com/in/mewmewdevart/)]([thing]https://www.linkedin.com/in/mewmewdevart/)	[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=[thing]https://www.instagram.com/mewmewdevart/)]([thing]https://www.instagram.com/mewmewdevart/)
 

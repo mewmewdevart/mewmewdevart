@@ -13,11 +13,20 @@ My name is Larissa Cristina (but you can call me Mewmew), I'm from 🇧🇷 Braz
  - 🗣️ I'm trying to overcome my shyness by participating in Game Jams and events.
  - 🌊 I'm currently developing a Cultural Game called "[Defenda a Festa de Iemanjá](https://linktr.ee/LulaMakeGame)".
  - 💬 I am very **empathetic** and **creative**, I like to share my crazy things with someone and help them when necessary.
- 
+</br>
 
-**Find Me :** <br></br>
+**👩🏾‍💻Challenges for me to complete in 2021 :** 
+
+- [ ] [30 Days CSS Challenge](https://github.com/mewmewdevart/30Days_CSSChallenge)
+- [ ] Develop Small Puzzles Games
+- [ ] Create a challenge in which I develop a game every short period for 1 month.
+- [ ] Programmer in a Game Jam
+
+</br>
+
+**Find Me :** <br>
 [
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-7159c1?style=for-the-badge&logo=linkedin&logoColor=white&link=[thing]https://www.linkedin.com/in/mewmewdevart/)](https://www.linkedin.com/in/mewmewdevart/)	[![Instagram Badge](https://img.shields.io/badge/Instagram-7159c1?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mewmewdevart/)](https://www.instagram.com/mewmewdevart/) [![Instagram Badge](https://img.shields.io/badge/Gmail-7159c1?style=for-the-badge&logo=gmail&logoColor=white&link=[thing]mailto:mewmewdevart@gmail.com)](mailto:mewmewdevart@gmail.com)	[![Facebook Badge](https://img.shields.io/badge/Facebook-7159c1?style=for-the-badge&logo=facebook&logoColor=white&link=https://https://www.facebook.com/mewmewdevart)](https://www.facebook.com/mewmewdevart)	[![Twitter Badge](https://img.shields.io/badge/Twitter-7159c1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mewmewdevart)](https://twitter.com/mewmewdevart)	[![Youtube Badge](https://img.shields.io/badge/Youtube-7159c1?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCSRY6VsQGofH-4y1o-iPtYg)](https://www.youtube.com/channel/UCSRY6VsQGofH-4y1o-iPtYg)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-7159c1?style=for-the-badge&logo=linkedin&logoColor=white&link=[thing]https://www.linkedin.com/in/mewmewdevart/)](https://www.linkedin.com/in/mewmewdevart/) [![Instagram Badge](https://img.shields.io/badge/Instagram-7159c1?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mewmewdevart/)](https://www.instagram.com/mewmewdevart/) [![Gmail Badge](https://img.shields.io/badge/Gmail-7159c1?style=for-the-badge&logo=gmail&logoColor=white&link=[thing]mailto:mewmewdevart@gmail.com)](mailto:mewmewdevart@gmail.com) [![Twitter Badge](https://img.shields.io/badge/Twitter-7159c1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mewmewdevart)](https://twitter.com/mewmewdevart)	
 
 # Coding Activity 
 

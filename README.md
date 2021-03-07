@@ -15,11 +15,11 @@ My name is Larissa Cristina (but you can call me Mewmew), I'm from 🇧🇷 Braz
  - 💬 I am very **empathetic** and **creative**, I like to share my crazy things with someone and help them when necessary.
 </br>
 
-- **👩🏾‍💻Challenges for me to complete in 2021 :** 
-   - [ ] [30 Days CSS Challenge](https://github.com/mewmewdevart/30Days_CSSChallenge)
-   - [ ] Develop C# programs
-   - [ ] Develop Mini-Games
-   - [ ] Programmer in a Game Jam
+**👩🏾‍💻Challenges for me to complete in 2021 :** 
+   - [30 Days CSS Challenge](https://github.com/mewmewdevart/30Days_CSSChallenge)
+   - Develop C# programs
+   - Develop Mini-Games
+   - Programmer in a Game Jam
 
 </br>
 

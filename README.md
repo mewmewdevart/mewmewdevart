@@ -6,6 +6,7 @@
 My name is Larissa Cristina (but you can call me Mewmew), I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of interest in Game Programming and Website Development 🎮👾.
 
 > 🧠 **The future belongs to those who prepare for it today. - Malcolm X**
+</br>
 
 **About Me :**
  - 🤪 I have random knowledge about many things.
@@ -13,15 +14,13 @@ My name is Larissa Cristina (but you can call me Mewmew), I'm from 🇧🇷 Braz
  - 🗣️ I'm trying to overcome my shyness by participating in Game Jams and events.
  - 🌊 I'm currently developing a Cultural Game called "[Defenda a Festa de Iemanjá](https://linktr.ee/LulaMakeGame)".
  - 💬 I am very **empathetic** and **creative**, I like to share my crazy things with someone and help them when necessary.
-</br>
+
 
 **👩🏾‍💻Challenges for me to complete in 2021 :** 
    - [30 Days CSS Challenge](https://github.com/mewmewdevart/30Days_CSSChallenge)
    - Develop C# programs
    - Develop Mini-Games
    - Programmer in a Game Jam
-
-</br>
 
 **Find Me :** <br>
 [

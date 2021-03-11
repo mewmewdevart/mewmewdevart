@@ -9,15 +9,13 @@ My name is Larissa Cristina (but you can call me Mewmew), I'm from 🇧🇷 Braz
 
 **👩🏾‍💻About Me :**
  - 🤪 I have random knowledge about many things.
- - 👾 Graduated in Digital Games and Development Web Front-End.
- - 🗣️ I'm trying to overcome my shyness by participating in Game Jams and events.
+ - 👾 Graduated in Digital Games.
  - 💬 I am very **empathetic** and **creative**.
 
 **💻Objectives for me to complete in 2021 :** 
    - [30 Days CSS Challenge](https://github.com/mewmewdevart/30Days_CSSChallenge)
    - Improve my programming skills (Javascript and C#)
    - Develop Mini-Games with C# in Unity and Unreal
-   - Programmer in a Game Jam
 
 **Find Me :** <br>
 [

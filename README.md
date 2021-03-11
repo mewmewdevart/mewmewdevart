@@ -6,7 +6,6 @@
 My name is Larissa Cristina (but you can call me Mewmew), I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of interest in Game Programming and Website Development 🎮👾.
 
 > 🧠 **The future belongs to those who prepare for it today. - Malcolm X**
-</br>
 
 **About Me :**
  - 🤪 I have random knowledge about many things.

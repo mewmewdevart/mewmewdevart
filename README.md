@@ -14,8 +14,8 @@ My name is Larissa Cristina (but you can call me Mewmew), I'm from 🇧🇷 Braz
 
 **💻Objectives for me to complete in 2021 :** 
    - [30 Days CSS Challenge](https://github.com/mewmewdevart/30Days_CSSChallenge)
-   - Improve my programming skills (Javascript and C#)
-   - Develop Mini-Games with C# in Unity and Unreal
+   - Improve my programming skills (Javascript and C)
+   - Develop Mini-Games with C# 
 
 **Find Me :** <br>
 [

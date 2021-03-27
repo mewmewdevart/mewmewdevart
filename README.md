@@ -8,13 +8,16 @@ My name is Larissa Cristina (but you can call me Mewmew), I'm from 🇧🇷 Braz
 > 🧠 **The future belongs to those who prepare for it today. - Malcolm X**
 
 **👩🏾‍💻About Me :**
- - 🤪 I have random knowledge about many things.
- - 👾 Graduated in Digital Games.
- - 💬 I am very **empathetic** and **creative**.
+ - 👾 Graduated in Digital Games
+ - ✌️ I am very **empathetic** and **creative**.
+ - 💬 I speak Portuguese and I know a little English
+ - ⚡ Curiosity: I have random knowledge about many things and love to talk about conspiracy theories
 
 **💻Objectives for me to complete in 2021 :** 
    - [30 Days CSS Challenge](https://github.com/mewmewdevart/30Days_CSSChallenge)
-   - Improve my programming skills (Javascript and C#)
+   - [Coming soon]
+   - [Coming soon]
+   - [Coming soon]
 
 **Find Me :** <br>
 [

@@ -18,7 +18,7 @@ My name is Larissa Cristina (but you can call me Mewmew), I'm from 🇧🇷 Braz
    - [42-Basecamp](https://github.com/mewmewdevart/42-Basecamp) ❗
    - [CS50](https://github.com/mewmewdevart/CS50_2021) ❗
    - [My Profissional Portfolio](https://github.com/mewmewdevart/My_Professional_Portfolio) ❗
- ❗
+ 
 **Find Me :** <br>
 [
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-7159c1?style=for-the-badge&logo=linkedin&logoColor=white&link=[thing]https://www.linkedin.com/in/mewmewdevart/)](https://www.linkedin.com/in/mewmewdevart/) [![Instagram Badge](https://img.shields.io/badge/Instagram-7159c1?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mewmewdevart/)](https://www.instagram.com/mewmewdevart/) [![Gmail Badge](https://img.shields.io/badge/Gmail-7159c1?style=for-the-badge&logo=gmail&logoColor=white&link=[thing]mailto:mewmewdevart@gmail.com)](mailto:mewmewdevart@gmail.com) [![Twitter Badge](https://img.shields.io/badge/Twitter-7159c1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mewmewdevart)](https://twitter.com/mewmewdevart)	

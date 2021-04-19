@@ -1,10 +1,8 @@
 <!-- Hey, I'm happy to hear that you're here. When I created my read.me profile, I used https://stackedit.io/ ,some html skills and Shields.io for icons -->
 
 # Whatsup? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Hey, I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of interest in Game Programming and Website Development 🎮👾.
-
 **Welcome to my Page!**<br>
-> 🧠 **The future belongs to those who prepare for it today. - Malcolm X**
+I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of interest in Game Programming and Website Development 🎮👾.
 
 **👩🏾‍💻About Me :**
  - ✌️ I am very **empathetic** and **creative**.

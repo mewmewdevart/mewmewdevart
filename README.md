@@ -1,15 +1,17 @@
 <!-- Hey, I'm happy to hear that you're here. When I created my read.me profile, I used https://stackedit.io/ ,some html skills and Shields.io for icons -->
 
 # Whatsup? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hey, I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of interest in Game Programming and Website Development 🎮👾.
 
 **Welcome to my Page!**<br>
 > 🧠 **The future belongs to those who prepare for it today. - Malcolm X**
 
 **👩🏾‍💻About Me :**
- - 👾 I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of interest in Game Programming and Website Development 🎮👾.
  - ✌️ I am very **empathetic** and **creative**.
  - 💬 I speak Portuguese and I know a little English
- - ⚡ Fun fact: I have random knowledge about many things and love to talk about conspiracy theories
+ - ⚡ Fun fact: I have random knowledge about many things and love to talk about conspiracy theories.
+ - 👾 Skills : **HTML, CSS, Bootstrap, PixelArt, Game Design and Ux/Ui Design**
+ - 💼 Softwares: **VSCode, Unity, Figma, Illustrator, Affter Effects, Git and Github.**
 
 **💻Objectives for me to complete in 2021 :** 
    - [30 Days CSS Challenge](https://github.com/mewmewdevart/30Days_CSSChallenge) ✔️
@@ -18,10 +20,6 @@
    - [My Professional Portfolio](https://github.com/mewmewdevart/My_Professional_Portfolio)  ❗
    - [Developed Games](https://github.com/mewmewdevart/Developed-Games) ❗
   
-**Languages and Tools:**
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
- 
 **Find Me :** <br>
 [
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-7159c1?style=for-the-badge&logo=linkedin&logoColor=white&link=[thing]https://www.linkedin.com/in/mewmewdevart/)](https://www.linkedin.com/in/mewmewdevart/) [![Instagram Badge](https://img.shields.io/badge/Instagram-7159c1?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mewmewdevart/)](https://www.instagram.com/mewmewdevart/) [![Gmail Badge](https://img.shields.io/badge/Gmail-7159c1?style=for-the-badge&logo=gmail&logoColor=white&link=[thing]mailto:mewmewdevart@gmail.com)](mailto:mewmewdevart@gmail.com) [![Twitter Badge](https://img.shields.io/badge/Twitter-7159c1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mewmewdevart)](https://twitter.com/mewmewdevart)	

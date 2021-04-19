@@ -13,7 +13,7 @@
 
 **💻Objectives for me to complete in 2021 :** 
    - [30 Days CSS Challenge](https://github.com/mewmewdevart/30Days_CSSChallenge) ✔️
-   - [42-Basecamp](https://github.com/mewmewdevart/42-Basecamp) ⚠️
+   - [42-Basecamp](https://github.com/mewmewdevart/42-Basecamp) ✔️
    - [CS50](https://github.com/mewmewdevart/CS50_2021) ❗
    - [My Professional Portfolio](https://github.com/mewmewdevart/My_Professional_Portfolio)  ❗
    - [Developed Games](https://github.com/mewmewdevart/Developed-Games) ❗

@@ -16,7 +16,7 @@ I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of inte
    - [42-Basecamp](https://github.com/mewmewdevart/42-Basecamp) ✔️
    - [CS50](https://github.com/mewmewdevart/CS50_2021) ❗
    - [My Professional Portfolio](https://github.com/mewmewdevart/My_Professional_Portfolio)  ❗
-   - [Developed Games](https://github.com/mewmewdevart/Developed-Games) ❗
+   - [Developed Games](https://github.com/mewmewdevart/Developed-Games) ✔️
   
 **Find Me :** <br>
 [

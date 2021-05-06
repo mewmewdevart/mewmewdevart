@@ -14,7 +14,7 @@ I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of inte
 **💻Projects that I will finish by the end of 2021 :** 
    - [30 Days CSS Challenge](https://github.com/mewmewdevart/30Days_CSSChallenge) ✔️
    - [Programming Exercises](https://github.com/mewmewdevart/Programming-Exercises) ❗
-   - [42 Basecamp](https://github.com/mewmewdevart/42-Basecamp) ❌ [Waiting the remake]
+   - [42 Basecamp](https://github.com/mewmewdevart/42-Basecamp) ❌ <s>[Waiting the remake]</s>
    - [CS50](https://github.com/mewmewdevart/CS50_2021) ❗
    - [Developed Games](https://github.com/mewmewdevart/Developed-Games) ❗
   

@@ -11,12 +11,12 @@ I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of inte
  - 👾 Skills : **HTML, CSS, Bootstrap, PixelArt, Game Design and Ux/Ui Design**
  - 💼 Softwares: **VSCode, Unity, Figma, Illustrator, Affter Effects, Git and Github.**
 
-**💻Objectives for me to complete in 2021 :** 
+**💻Projects that I will finish by the end of 2021 :** 
    - [30 Days CSS Challenge](https://github.com/mewmewdevart/30Days_CSSChallenge) ✔️
+   - [Programming Exercises](https://github.com/mewmewdevart/Programming-Exercises) 🛠️
+   - [42 Basecamp](https://github.com/mewmewdevart/42-Basecamp) ❌ [Waiting for the remake]
    - [CS50](https://github.com/mewmewdevart/CS50_2021) ❗
-   - [My Professional Portfolio](https://github.com/mewmewdevart/My_Professional_Portfolio)  ❗
-   - [42 Basecamp](https://github.com/mewmewdevart/42-Basecamp) ❌
-   - [Developed Games](https://github.com/mewmewdevart/Developed-Games) ✔️
+   - [Developed Games](https://github.com/mewmewdevart/Developed-Games) 🛠️
   
 **Find Me :** <br>
 [

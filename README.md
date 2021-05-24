@@ -9,7 +9,7 @@ I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of inte
  - 💬 I speak Portuguese and I know a little English.
  - ⚡ Fun fact: I have random knowledge about many things and love to talk about conspiracy theories.
  - 🧠 Eternal Student : I do some math exercises in C language to exercise logic.
- - 👾 Skills : **HTML, CSS, Bootstrap, PixelArt, Game Design, C, C# <s> help me </s>) and Ux/Ui Design**
+ - 👾 Skills : **HTML, CSS, Bootstrap, PixelArt, Game Design, C, C# <s> (help me </s>) and Ux/Ui Design**
  - 💼 Softwares: **VSCode, Unity, Figma, Illustrator, Affter Effects, Git and Github.**
 
 **💻Projects that I will finish by the end of 2021 :** 

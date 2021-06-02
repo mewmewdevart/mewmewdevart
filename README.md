@@ -14,17 +14,21 @@ I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of inte
 
 **💻Projects that I will finish by the end of 2021 :** 
    - [30 Days CSS Challenge](https://github.com/mewmewdevart/30Days_CSSChallenge) ✔️
-   - [CSS Drawing](https://github.com/mewmewdevart/CSS-Drawing) ✔️
    - [Portfolio](https://github.com/mewmewdevart/mewmewdevart.github.io)  ❗
    - [Developed Games](https://github.com/mewmewdevart/Developed-Games)  ❗
-   - [Programming Exercises in Language C](https://github.com/mewmewdevart/Language-C) ❗
    - [42 Basecamp](https://github.com/mewmewdevart/42-Basecamp) ❌ <s>[Waiting the remake]</s>
+  
+  
+<details>
+    <summary align="left">GitHub Profile Stats 💻 📊 🏆</summary>
+
+![Larissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mewmewdevart&show_icons=true&theme=jolly) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mewmewdevart&layout=compact&theme=jolly)](https://github.com/mewmewdevart/github-readme-stats)
+</details>
+  
   
 **Find Me :** <br>
 [
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-7159c1?style=for-the-badge&logo=linkedin&logoColor=white&link=[thing]https://www.linkedin.com/in/mewmewdevart/)](https://www.linkedin.com/in/mewmewdevart/) [![Instagram Badge](https://img.shields.io/badge/Instagram-7159c1?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mewmewdevart/)](https://www.instagram.com/mewmewdevart/) [![Gmail Badge](https://img.shields.io/badge/Gmail-7159c1?style=for-the-badge&logo=gmail&logoColor=white&link=[thing]mailto:mewmewdevart@gmail.com)](mailto:mewmewdevart@gmail.com) [![Twitter Badge](https://img.shields.io/badge/Twitter-7159c1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mewmewdevart)](https://twitter.com/mewmewdevart)	
 
-# Coding Activity 
 
-![Larissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mewmewdevart&show_icons=true&theme=jolly) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mewmewdevart&layout=compact&theme=jolly)](https://github.com/mewmewdevart/github-readme-stats)
 

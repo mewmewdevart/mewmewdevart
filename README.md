@@ -11,21 +11,20 @@ I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of inte
  - 🧠 Studying at the moment : I'm learning to program. So I'm dedicating myself to the studies of **C language** (Pointers, Matrices etc) and **C# language** to create games in Unity Engine.
  - 🏳️‍🌈 Community : I volunteer as a content creator for [Ux para Minas Pretas](https://www.linkedin.com/company/uxparaminaspretas/) and Social Media for [SampaDiversa](https://www.linkedin.com/company/sampadiversa).
 
-
 **💻Projects that I will finish by the end of 2021 :** 
-   - [30 Days CSS Challenge](https://github.com/mewmewdevart/30Days_CSSChallenge) ✔️
-   - [Portfolio](https://github.com/mewmewdevart/mewmewdevart.github.io)  ❗
-   - [Developed Games](https://github.com/mewmewdevart/Developed-Games)  ❗
-   - [42 Basecamp](https://github.com/mewmewdevart/42-Basecamp) ❌ <s>[Waiting the remake]</s>
-  
-  
+
+- [x] [30 Days CSS Challenge](https://github.com/mewmewdevart/30Days_CSSChallenge) 
+- [ ] [Portfolio](https://github.com/mewmewdevart/mewmewdevart.github.io) [In Development]
+- [ ] [42 Basecamp](https://github.com/mewmewdevart/42-Basecamp) ~~[Waiting the remake]~~
+- [ ] [Developed Games](https://github.com/mewmewdevart/Developed-Games) [In Development]
+
+
 <details>
  <summary align="left"><b>GitHub Profile Stats 💻 📊</br></summary>
-
 ![Larissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mewmewdevart&show_icons=true&theme=jolly) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mewmewdevart&layout=compact&theme=jolly)](https://github.com/mewmewdevart/github-readme-stats)
 </details>
-  
-  
+
+
 **Find Me :** <br>
 [
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-7159c1?style=for-the-badge&logo=linkedin&logoColor=white&link=[thing]https://www.linkedin.com/in/mewmewdevart/)](https://www.linkedin.com/in/mewmewdevart/) [![Instagram Badge](https://img.shields.io/badge/Instagram-7159c1?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mewmewdevart/)](https://www.instagram.com/mewmewdevart/) [![Gmail Badge](https://img.shields.io/badge/Gmail-7159c1?style=for-the-badge&logo=gmail&logoColor=white&link=[thing]mailto:mewmewdevart@gmail.com)](mailto:mewmewdevart@gmail.com) [![Twitter Badge](https://img.shields.io/badge/Twitter-7159c1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mewmewdevart)](https://twitter.com/mewmewdevart)	

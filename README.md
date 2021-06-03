@@ -2,13 +2,13 @@
 
 # Whatsup? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 **Welcome to my Page!**<br>
-I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of interest in Game Programming and Website Development 🎮👾.
+I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of interest in Game Programming, Website Development and Cyber Security. 🎮👾
 
 **👩🏾‍💻About Me :**
  - ✌️ I am very **empathetic** and **creative**.
  - 💬 I speak Portuguese and I know a little English.
- - ⚡ Fun fact: I have random knowledge about many things and love to talk about conspiracy theories.
- - 🧠 Studying at the moment : I'm learning to program. So I'm dedicating myself to the studies of **C language** (Pointers, Matrices etc) and **C# language** to create games in Unity Engine.
+ - ⚡ Fun fact: I have random knowledge about many things, like to observe human behavior and love to talk about conspiracy theories. 
+ - 🧠 Studying: Learning about **C language, developing some games in C# and JavaScript**.
  - 🏳️‍🌈 Community : I volunteer as a content creator for [Ux para Minas Pretas](https://www.linkedin.com/company/uxparaminaspretas/) and Social Media for [SampaDiversa](https://www.linkedin.com/company/sampadiversa).
 
 **💻Projects that I will finish by the end of 2021 :** 

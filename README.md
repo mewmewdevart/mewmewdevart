@@ -6,9 +6,10 @@ I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of inte
 
 **👩🏾‍💻About Me :**
  - ✌️ I am very **empathetic** and **creative**.
- - 💬 I speak Portuguese and I know a little English.
+ - 💬 I speak Portuguese, Brazilian Sign Language and I know a little English.
  - ⚡ Fun fact: I have random knowledge about many things, like to observe human behavior and love to talk about conspiracy theories. 
  - 🧠 Studying: Learning about **C language, developing some games in C# and JavaScript**.
+ - 🎮 Projects: Game creator and developer of [Defenda a Festa de Iemanjá](https://www.gamereporter.com.br/defenda-a-festa-de-iemanja/).
  - 🏳️‍🌈 Community : I volunteer as a content creator for [Ux para Minas Pretas](https://www.linkedin.com/company/uxparaminaspretas/) and Social Media for [SampaDiversa](https://www.linkedin.com/company/sampadiversa).
 
 **💻Projects that I will finish by the end of 2021 :** 

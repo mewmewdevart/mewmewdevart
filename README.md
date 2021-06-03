@@ -2,7 +2,7 @@
 
 # Whatsup? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 **Welcome to my Page!**<br>
-I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of interest in Game Programming, Website Development and Cyber Security. 🎮👾
+I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of interest in Game Programming, Website Development and ~~Cyber Security~~ . 🎮👾
 
 **👩🏾‍💻About Me :**
  - ✌️ I am very **empathetic** and **creative**.

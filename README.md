@@ -21,6 +21,7 @@ I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of inte
 
 <details>
  <summary align="left"><b>GitHub Profile Stats 💻 📊</br></summary>
+ 
 ![Larissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mewmewdevart&show_icons=true&theme=jolly) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mewmewdevart&layout=compact&theme=jolly)](https://github.com/mewmewdevart/github-readme-stats)
 </details>
 

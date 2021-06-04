@@ -2,15 +2,17 @@
 
 # Whatsup? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 **Welcome to my Page!**<br>
-I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of interest in Game Programming and Website Development. 🎮👾
+I'm from Brazil. I'm Ux/Ui Designer and Artist with a lot of interest in Game Programming and Website Development.🎮👾
 
 **👩🏾‍💻About Me :**
- - ✌️ I am very **empathetic** and **creative**.
- - 💬 I speak Portuguese, Brazilian Sign Language and I know a little English.
- - ⚡ Fun fact: I have random knowledge about many things, like to observe human behavior and love to talk about conspiracy theories. 
- - 🧠 Studying: Learning about **C language, developing some games in C# and JavaScript**.
+ - ✌️ I am very **empathetic**, **creative** and **observer**. 🕵🏿‍♀️
  - 🎮 Projects: Game creator and developer of [Defenda a Festa de Iemanjá](https://www.gamereporter.com.br/defenda-a-festa-de-iemanja/).
+ - 💬 Speaker: I speak Portuguese, Brazilian Sign Language and I know a little English.
+ - 🧠 Studying: Learning about **C language, developing some games in C# and JavaScript**.
+ - ⚡ Fun fact: I have random knowledge about many things and love to talk about conspiracy theories. 
  - 🏳️‍🌈 Community : I volunteer as a content creator for [Ux para Minas Pretas](https://www.linkedin.com/company/uxparaminaspretas/) and Social Media for [SampaDiversa](https://www.linkedin.com/company/sampadiversa).
+ - 💡 One sentence: "And those who were seen dancing were thought to be insane by those who could not hear the music."
+
 
 **💻Projects that I will finish by the end of 2021 :** 
 

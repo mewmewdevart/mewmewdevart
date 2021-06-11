@@ -19,7 +19,6 @@ I'm from Brazil. I'm Ux/Ui Designer and Artist with a lot of interest in Game Pr
 - [30 Days CSS Challenge](https://github.com/mewmewdevart/30Days_CSSChallenge) ✔️
 - [Portfolio](https://github.com/mewmewdevart/mewmewdevart.github.io) [In Development]
 - [42 Basecamp](https://github.com/mewmewdevart/42-Basecamp) ~~[Waiting the remake]~~
-- [Developed Games](https://github.com/mewmewdevart/Developed-Games) [In Development]
 
 
 <details>

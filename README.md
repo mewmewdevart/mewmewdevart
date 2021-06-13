@@ -10,7 +10,7 @@ I'm from Brazil. I'm Ux/Ui Designer and Artist with a lot of interest in Game Pr
  - 💬 Speaker: I speak Portuguese, Brazilian Sign Language and I know a little English.
  - 🧠 Studying: Learning about **C language, developing some games in C# and JavaScript**.
  - ⚡ Fun fact: I have random knowledge about many things and love to talk about conspiracy theories. 
- - 🏳️‍🌈 Community : I volunteer as a content creator for [Ux para Minas Pretas](https://www.linkedin.com/company/uxparaminaspretas/) and Social Media for [SampaDiversa](https://www.linkedin.com/company/sampadiversa).
+ - 🏳️‍🌈 Community : I volunteer as a content creator for Social Media for [SampaDiversa](https://www.linkedin.com/company/sampadiversa).
  - 💡 One sentence: "And those who were seen dancing were thought to be insane by those who could not hear the music."
 
 

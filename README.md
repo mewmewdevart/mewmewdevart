@@ -4,9 +4,6 @@
 **Welcome to my Page!**<br>
 I'm from Brazil. I'm Ux/Ui Designer and Artist with a lot of interest in Game Programming and Website Development.🎮👾
 
-<img src="https://user-images.githubusercontent.com/50052600/122789126-5b5d6080-d28d-11eb-9cd9-385919486928.png" width="75%">
-
-
 **👩🏾‍💻About Me :**
  - ✌️ I am very **empathetic**, **creative** and **observer**. 🕵🏿‍♀️
  - 🎮 Projects: Game creator and developer of [Defenda a Festa de Iemanjá](https://www.gamereporter.com.br/defenda-a-festa-de-iemanja/).
@@ -14,8 +11,6 @@ I'm from Brazil. I'm Ux/Ui Designer and Artist with a lot of interest in Game Pr
  - 🧠 Studying: Learning about **C language, developing some games in C# and JavaScript**.
  - ⚡ Fun fact: I have random knowledge about many things and love to talk about conspiracy theories. 
  - 🏳️‍🌈 Community : I volunteer as a content creator for Social Media for [SampaDiversa](https://www.linkedin.com/company/sampadiversa).
- - 💡 One sentence: "And those who were seen dancing were thought to be insane by those who could not hear the music."
-
 
 **💻Projects that I will finish by the end of 2021 :** 
 

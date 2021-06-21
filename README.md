@@ -4,7 +4,8 @@
 **Welcome to my Page!**<br>
 I'm from Brazil. I'm Ux/Ui Designer and Artist with a lot of interest in Game Programming and Website Development.🎮👾
 
-<img src="https://user-images.githubusercontent.com/50052600/122787864-23a1e900-d28c-11eb-8ab2-6bb431b187a3.png" width="75%">
+<img src="https://user-images.githubusercontent.com/50052600/122789126-5b5d6080-d28d-11eb-9cd9-385919486928.png" width="75%">
+
 
 **👩🏾‍💻About Me :**
  - ✌️ I am very **empathetic**, **creative** and **observer**. 🕵🏿‍♀️

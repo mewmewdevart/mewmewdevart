@@ -1,7 +1,7 @@
 <!-- Hey, I'm happy to hear that you're here. When I created my read.me profile, I used https://stackedit.io/ ,some html skills and Shields.io for icons -->
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50052600/123135514-436e1400-d428-11eb-8fdd-58996d7797ed.gif" alt="Photo Card" width="85%"/>
+<img src="https://user-images.githubusercontent.com/50052600/123136974-e5dac700-d429-11eb-838a-2c1a2dd0b265.gif" alt="Photo Card" width="85%"/>
 </P>
 
 **👩🏾‍💻About Me :**

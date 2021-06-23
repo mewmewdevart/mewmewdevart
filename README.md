@@ -1,7 +1,7 @@
 <!-- Hey, I'm happy to hear that you're here. When I created my read.me profile, I used https://stackedit.io/ ,some html skills and Shields.io for icons -->
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50052600/123132830-8975a880-d425-11eb-942d-ce68fd75b7d6.gif" alt="Logo Snake Game" width="90%"/>
+<img src="https://user-images.githubusercontent.com/50052600/123132830-8975a880-d425-11eb-942d-ce68fd75b7d6.gif" alt="Logo Snake Game" width="75%"/>
 </P>
 
 <!--

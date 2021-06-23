@@ -1,10 +1,9 @@
 <!-- Hey, I'm happy to hear that you're here. When I created my read.me profile, I used https://stackedit.io/ ,some html skills and Shields.io for icons -->
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50052600/123132830-8975a880-d425-11eb-942d-ce68fd75b7d6.gif" alt="Logo Snake Game" width="75%"/>
+<img src="https://user-images.githubusercontent.com/50052600/123135514-436e1400-d428-11eb-8fdd-58996d7797ed.gif" alt="Photo Card" width="100%"/>
 </P>
 
-<!--
 **👩🏾‍💻About Me :**
  - ✌️ I am very **empathetic**, **creative** and **observer**. 🕵🏿‍♀️
  - 🎮 Projects: Game creator and developer of [Defenda a Festa de Iemanjá](https://www.gamereporter.com.br/defenda-a-festa-de-iemanja/).
@@ -18,7 +17,7 @@
 - [30 Days CSS Challenge](https://github.com/mewmewdevart/30Days_CSSChallenge) ✔️
 - [Portfolio](https://github.com/mewmewdevart/mewmewdevart.github.io) [In Development]
 - [42 Basecamp](https://github.com/mewmewdevart/42-Basecamp) ~~[Waiting the remake]~~
- -->
+
  
 <details>
  <summary align="left"><b>GitHub Profile Stats 💻 📊</br></summary>

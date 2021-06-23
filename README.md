@@ -1,9 +1,10 @@
 <!-- Hey, I'm happy to hear that you're here. When I created my read.me profile, I used https://stackedit.io/ ,some html skills and Shields.io for icons -->
 
-# Whatsup? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-**Welcome to my Page!**<br>
-I'm from Brazil. I'm Ux/Ui Designer and Artist with a lot of interest in Game Programming and Website Development.🎮👾
+<p align="center">
+<img src="https://user-images.githubusercontent.com/50052600/123132830-8975a880-d425-11eb-942d-ce68fd75b7d6.gif" alt="Logo Snake Game" width="90%"/>
+</P>
 
+<!--
 **👩🏾‍💻About Me :**
  - ✌️ I am very **empathetic**, **creative** and **observer**. 🕵🏿‍♀️
  - 🎮 Projects: Game creator and developer of [Defenda a Festa de Iemanjá](https://www.gamereporter.com.br/defenda-a-festa-de-iemanja/).
@@ -17,8 +18,8 @@ I'm from Brazil. I'm Ux/Ui Designer and Artist with a lot of interest in Game Pr
 - [30 Days CSS Challenge](https://github.com/mewmewdevart/30Days_CSSChallenge) ✔️
 - [Portfolio](https://github.com/mewmewdevart/mewmewdevart.github.io) [In Development]
 - [42 Basecamp](https://github.com/mewmewdevart/42-Basecamp) ~~[Waiting the remake]~~
-
-
+ -->
+ 
 <details>
  <summary align="left"><b>GitHub Profile Stats 💻 📊</br></summary>
  

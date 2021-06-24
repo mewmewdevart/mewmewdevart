@@ -4,9 +4,12 @@
 <img src="https://user-images.githubusercontent.com/50052600/123136974-e5dac700-d429-11eb-838a-2c1a2dd0b265.gif" alt="Photo Card" width="85%"/>
 </P>
 
-<p align="center"> Select your language preference:  <br>
-<img src="https://user-images.githubusercontent.com/50052600/123194844-873f3880-d47d-11eb-99f7-123c6aef36d9.png" alt="English Language Button" width="4%"/> &#160; &#160;&#160;&#160;<img src="https://user-images.githubusercontent.com/50052600/123194951-b48be680-d47d-11eb-9a7b-43cf049b5c0e.png" alt="Portuguese-Brazilian Language Button" width="4%"/>
+<p align="center"> 
+ <b>Select your language preference:</b> <br>
+<a href="https://github.com/mewmewdevart/mewmewdevart"><img src="https://user-images.githubusercontent.com/50052600/123194844-873f3880-d47d-11eb-99f7-123c6aef36d9.png" alt="English Language Button" width="4%"/> en-us<a> &#160; &#160;&#160;&#160; <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md"><img src="https://user-images.githubusercontent.com/50052600/123194951-b48be680-d47d-11eb-9a7b-43cf049b5c0e.png" alt="Portuguese-Brazilian Language Button" width="4%"/> pt-br </a>
  </p>
+
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
 <details>
  <summary align="left"><b>👩🏾‍💻About Me</br></summary>

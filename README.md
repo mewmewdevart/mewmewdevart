@@ -1,7 +1,7 @@
 <!-- Hey, I'm happy to hear that you're here. When I created my read.me profile, I used https://stackedit.io/ ,some html skills and Shields.io for icons -->
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50052600/123136974-e5dac700-d429-11eb-838a-2c1a2dd0b265.gif" alt="Photo Card" width="85%"/>
+<img src="https://user-images.githubusercontent.com/50052600/123136974-e5dac700-d429-11eb-838a-2c1a2dd0b265.gif" alt="Photo Card" width="90%"/>
 </P>
 
 <p align="center"> 
@@ -26,7 +26,7 @@
 ![Larissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mewmewdevart&show_icons=true&theme=jolly) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mewmewdevart&layout=compact&theme=jolly)](https://github.com/mewmewdevart/github-readme-stats)
 </details>
 
-<h4 align="left">Languages and Tools:</h4>
+<h4 align="left">Languages and Tools : </h4>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>

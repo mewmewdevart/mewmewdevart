@@ -25,7 +25,7 @@
   
   🥇 [30Days CSSChallenge](https://github.com/mewmewdevart/30Days-CSSChallenge) <br>
   🏕️ [42 Basecamp](https://github.com/mewmewdevart/42-Basecamp) <br>
-  ♨️ [42 Basecamp](https://github.com/mewmewdevart/SantanderBootcamp) <br>
+  ♨️ [Santander Bootcamp](https://github.com/mewmewdevart/SantanderBootcamp) <br>
   🎬 [CloneUI Netflix](https://github.com/mewmewdevart/CloneUI-Netflix) <br>
   🎮 [Game Snake](https://github.com/mewmewdevart/Game-SnakeGame) <br>
   🎮 [Game KerbyEdition](https://github.com/mewmewdevart/Game-KerbyEdition) <br>

@@ -8,21 +8,16 @@
  <b>Selecione o idioma de preferência: </b> <br>
 <a href="https://github.com/mewmewdevart/mewmewdevart"><img src="https://user-images.githubusercontent.com/50052600/123194844-873f3880-d47d-11eb-99f7-123c6aef36d9.png" alt="English Language Button" width="4%"/> en-us<a> &#160; &#160;&#160;&#160; <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md"><img src="https://user-images.githubusercontent.com/50052600/123194951-b48be680-d47d-11eb-9a7b-43cf049b5c0e.png" alt="Portuguese-Brazilian Language Button" width="4%"/> pt-br </a>
  </p>
-
-**👩🏾‍💻Sobre mim :**
+<details>
+ <summary align="left"><b>👩🏾‍💻Sobre mim </br></summary>
  - ✌️ Sou empatica, criativa e observadora. 🕵🏿‍♀️
  - 🎮 Projeto: Desenvolvedora do jogo [Defenda a Festa de Iemanjá](https://www.gamereporter.com.br/defenda-a-festa-de-iemanja/).
  - 💬 Idiomas: Sou fluênte em português-brasileiro, intermediária na Língua Brasileira de Sinais e em Inglês.
  - 🧠 Estudando: Estou estudando sobre a **Linguagem C, programando alguns jogos em C# e JavaScript**.
  - ⚡ Fato engraçado:  Tenho o conhecimento aleatorio sobre muitas coisas e adoro conversar sobre teorias da conspiração.
  - 🏳️‍🌈 Comunidade : Sou voluntaria em criadora de conteudo (social media) para a [SampaDiversa](https://www.linkedin.com/company/sampadiversa).
-
-**💻Projetos que pretendo terminar até o final de 2021 :** 
-
-- [30 Days CSS Challenge](https://github.com/mewmewdevart/30Days_CSSChallenge) ✔️
-- [Portfolio](https://github.com/mewmewdevart/mewmewdevart.github.io) [Em Desenvolvimento]
-- [42 Basecamp](https://github.com/mewmewdevart/42-Basecamp) ~~[Aguardando o remake]~~
-
+</details>
+ 
 <details>
  <summary align="left"><b>Status do Perfil do Github 💻 📊</br></summary>
 

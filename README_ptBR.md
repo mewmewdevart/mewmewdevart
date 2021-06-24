@@ -9,7 +9,7 @@
 <a href="https://github.com/mewmewdevart/mewmewdevart"><img src="https://user-images.githubusercontent.com/50052600/123194844-873f3880-d47d-11eb-99f7-123c6aef36d9.png" alt="English Language Button" width="4%"/> en-us<a> &#160; &#160;&#160;&#160; <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md"><img src="https://user-images.githubusercontent.com/50052600/123194951-b48be680-d47d-11eb-9a7b-43cf049b5c0e.png" alt="Portuguese-Brazilian Language Button" width="4%"/> pt-br </a>
  </p>
 <details>
- <summary align="left"><b>Sobre mim 👩🏾‍💻</br></summary>
+ <summary align="left"><b>Sobre mim 👩🏿 </br></summary>
  
  - ✌️ Sou empatica, criativa e observadora. 🕵🏿‍♀️
  - 🎮 Projeto: Desenvolvedora do jogo [Defenda a Festa de Iemanjá](https://www.gamereporter.com.br/defenda-a-festa-de-iemanja/).
@@ -18,6 +18,20 @@
  - ⚡ Fato engraçado:  Tenho o conhecimento aleatorio sobre muitas coisas e adoro conversar sobre teorias da conspiração.
  - 🏳️‍🌈 Comunidade : Sou voluntaria em criadora de conteudo (social media) para a [SampaDiversa](https://www.linkedin.com/company/sampadiversa).
 </details>
+
+ 
+ <details>
+   <summary align="left"><b>Melhores Projetos 👩🏾‍💻</br></summary>
+  
+- 🥇 [30Days CSSChallenge](https://github.com/mewmewdevart/30Days-CSSChallenge) <br>
+- 🏕️ [42 Basecamp](https://github.com/mewmewdevart/42-Basecamp) <br>
+- ♨️ [Santander Bootcamp](https://github.com/mewmewdevart/SantanderBootcamp) <br>
+- 🎬 [CloneUI Netflix](https://github.com/mewmewdevart/CloneUI-Netflix) <br>
+- 🎮 [Game Snake](https://github.com/mewmewdevart/Game-SnakeGame) <br>
+- 🎮 [Game KerbyEdition](https://github.com/mewmewdevart/Game-KerbyEdition) <br>
+- 👩🏾‍💻 [My Portfolio](https://github.com/mewmewdevart/mewmewdevart.github.io) <br>
+  
+  </details>
  
 <details>
 <summary align="left"><b>Linguagens e Ferramentas 🛠️ </br></summary>

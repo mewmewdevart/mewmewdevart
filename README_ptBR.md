@@ -26,7 +26,7 @@
 ![Larissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mewmewdevart&show_icons=true&theme=jolly) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mewmewdevart&layout=compact&theme=jolly)](https://github.com/mewmewdevart/github-readme-stats)
 </details>
 
- <details>
+<details>
 <summary align="left"><b>Linguagens e Ferramentas 🛠️ </br></summary>
 
 <p align="left"> 

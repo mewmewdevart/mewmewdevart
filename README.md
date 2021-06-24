@@ -4,6 +4,10 @@
 <img src="https://user-images.githubusercontent.com/50052600/123136974-e5dac700-d429-11eb-838a-2c1a2dd0b265.gif" alt="Photo Card" width="85%"/>
 </P>
 
+<p align="center"> Select language preference:  <br>
+<img src="https://user-images.githubusercontent.com/50052600/123194844-873f3880-d47d-11eb-99f7-123c6aef36d9.png" alt="English Language Button" width="5%"/> &#160; &#160;&#160;&#160;<img src="https://user-images.githubusercontent.com/50052600/123194951-b48be680-d47d-11eb-9a7b-43cf049b5c0e.png" alt="Portuguese Language Button" width="5%"/>
+ </p>
+
 **👩🏾‍💻About Me :**
  - ✌️ I am very **empathetic**, **creative** and **observer**. 🕵🏿‍♀️
  - 🎮 Projects: Game creator and developer of [Defenda a Festa de Iemanjá](https://www.gamereporter.com.br/defenda-a-festa-de-iemanja/).

@@ -20,13 +20,6 @@
 </details>
  
 <details>
- <summary align="left"><b>Status do Perfil do Github 💻 📊</br></summary>
-
-
-![Larissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mewmewdevart&show_icons=true&theme=jolly) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mewmewdevart&layout=compact&theme=jolly)](https://github.com/mewmewdevart/github-readme-stats)
-</details>
-
-<details>
 <summary align="left"><b>Linguagens e Ferramentas 🛠️ </br></summary>
 
 <p align="left"> 
@@ -39,6 +32,13 @@
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p> </details>
+ 
+ <details>
+ <summary align="left"><b>Status do Perfil do Github 📊</br></summary>
+
+
+![Larissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mewmewdevart&show_icons=true&theme=jolly) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mewmewdevart&layout=compact&theme=jolly)](https://github.com/mewmewdevart/github-readme-stats)
+</details>
  
 **Me Encontre :** <br>
 [

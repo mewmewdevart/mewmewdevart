@@ -10,7 +10,7 @@
  </p>
 
 <details>
- <summary align="left"><b>About Me 👩🏾‍💻</br></summary>
+ <summary align="left"><b>About Me 👩🏿</br></summary>
  
  - ✌️ I am very **empathetic**, **creative** and **observer**. 🕵🏿‍♀️
  - 🎮 Projects: Game creator and developer of [Defenda a Festa de Iemanjá](https://www.gamereporter.com.br/defenda-a-festa-de-iemanja/).
@@ -21,15 +21,15 @@
 </details>
  
  <details>
-   <summary align="left"><b>Best Projects</br></summary>
+   <summary align="left"><b>Best Projects 👩🏾‍💻</br></summary>
   
-  🥇 [30Days CSSChallenge](https://github.com/mewmewdevart/30Days-CSSChallenge) <br>
-  🏕️ [42 Basecamp](https://github.com/mewmewdevart/42-Basecamp) <br>
-  ♨️ [Santander Bootcamp](https://github.com/mewmewdevart/SantanderBootcamp) <br>
-  🎬 [CloneUI Netflix](https://github.com/mewmewdevart/CloneUI-Netflix) <br>
-  🎮 [Game Snake](https://github.com/mewmewdevart/Game-SnakeGame) <br>
-  🎮 [Game KerbyEdition](https://github.com/mewmewdevart/Game-KerbyEdition) <br>
-  👩🏾‍💻 [My Portfolio](https://github.com/mewmewdevart/mewmewdevart.github.io) <br>
+- 🥇 [30Days CSSChallenge](https://github.com/mewmewdevart/30Days-CSSChallenge) <br>
+- 🏕️ [42 Basecamp](https://github.com/mewmewdevart/42-Basecamp) <br>
+- ♨️ [Santander Bootcamp](https://github.com/mewmewdevart/SantanderBootcamp) <br>
+- 🎬 [CloneUI Netflix](https://github.com/mewmewdevart/CloneUI-Netflix) <br>
+- 🎮 [Game Snake](https://github.com/mewmewdevart/Game-SnakeGame) <br>
+- 🎮 [Game KerbyEdition](https://github.com/mewmewdevart/Game-KerbyEdition) <br>
+- 👩🏾‍💻 [My Portfolio](https://github.com/mewmewdevart/mewmewdevart.github.io) <br>
   
   </details>
  

@@ -10,6 +10,7 @@
  </p>
 <details>
  <summary align="left"><b>👩🏾‍💻Sobre mim </br></summary>
+ 
  - ✌️ Sou empatica, criativa e observadora. 🕵🏿‍♀️
  - 🎮 Projeto: Desenvolvedora do jogo [Defenda a Festa de Iemanjá](https://www.gamereporter.com.br/defenda-a-festa-de-iemanja/).
  - 💬 Idiomas: Sou fluênte em português-brasileiro, intermediária na Língua Brasileira de Sinais e em Inglês.

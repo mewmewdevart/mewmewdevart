@@ -10,7 +10,7 @@
  </p>
 
 <details>
- <summary align="left"><b>👩🏾‍💻About Me</br></summary>
+ <summary align="left"><b>About Me 👩🏾‍💻</br></summary>
  
  - ✌️ I am very **empathetic**, **creative** and **observer**. 🕵🏿‍♀️
  - 🎮 Projects: Game creator and developer of [Defenda a Festa de Iemanjá](https://www.gamereporter.com.br/defenda-a-festa-de-iemanja/).

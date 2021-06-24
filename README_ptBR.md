@@ -3,16 +3,16 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/50052600/123136974-e5dac700-d429-11eb-838a-2c1a2dd0b265.gif" alt="Photo Card" width="85%"/>
 </P>
-**👩🏾‍💻Sobre mim :**
 
+**👩🏾‍💻Sobre mim :**
  - ✌️ Sou empatica, criativa e observadora. 🕵🏿‍♀️
  - 🎮 Projeto: Desenvolvedora do jogo [Defenda a Festa de Iemanjá](https://www.gamereporter.com.br/defenda-a-festa-de-iemanja/).
  - 💬 Idiomas: Sou fluênte em português-brasileiro, intermediária na Língua Brasileira de Sinais e em Inglês.
  - 🧠 Estudando: Estou estudando sobre a **Linguagem C, programando alguns jogos em C# e JavaScript**.
- - ⚡ Fato engraçado:  Eu tenho o conhecimento aleatorio sobre muitas coisas e adoro conversar sobre teorias da conspiração.
+ - ⚡ Fato engraçado:  Tenho o conhecimento aleatorio sobre muitas coisas e adoro conversar sobre teorias da conspiração.
  - 🏳️‍🌈 Comunidade : Sou voluntaria em criadora de conteudo (social media) para a [SampaDiversa](https://www.linkedin.com/company/sampadiversa).
 
-**💻Projects that I will finish by the end of 2021 :** 
+**💻Projetos que pretendo terminar até o final de 2021 :** 
 
 - [30 Days CSS Challenge](https://github.com/mewmewdevart/30Days_CSSChallenge) ✔️
 - [Portfolio](https://github.com/mewmewdevart/mewmewdevart.github.io) [Em Desenvolvimento]

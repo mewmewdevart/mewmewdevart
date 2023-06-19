@@ -1,14 +1,11 @@
-
 <p align="right">
 ... ᴿᵉᵃᵈᴹᵉ ᶦⁿ ᴰᵉᵛᵉˡᵒᵖᵐᵉⁿᵗᵎ
 </p>
 
-<img align="right" width=10% alt="GIF" src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/6ecf1de6-cb9f-47a7-8a3d-9babf649cb19"/>
-
 <p align="right">
  // Select your language preference:  <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md">🇧🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_FR.md">🇫🇷</a>
  </p>
- 
+
 ```C
 printf("Hello World! 🌎");
 printf("I'm an Afro-Brazilian woman developing things! 🇧🇷👩🏾‍💻");
@@ -35,6 +32,7 @@ printf("I'm an Afro-Brazilian woman developing things! 🇧🇷👩🏾‍💻")
 
 - Email: [larcrist@student.42sp.org.br](mailto:larcrist@student.42sp.org.br)
 - Discord: `Mewmew#9198`
+
 
 <!--
 

@@ -12,20 +12,13 @@ printf("I'm an Afro-Brazilian woman developing things! 🇧🇷👩🏾‍💻")
 ``` 
 
 #### Currently,
-- I'm studying:
-  - Software Engineering at École 42 São Paulo.
-  - Information Security at San Jose Institute of Technology.
-  - Front-End Web Development with Angular at Ada, sponsored by TOTVS and IOS.
-  - "The Complete Web Development Bootcamp" by Angela Yu on Udemy.
-  - "100DaysOfChallenge - The Complete Python" by Angela Yu on Udemy.
-- Graduated in Technology in Digital Games at Impacta Tecnologia with a cool game developed [Defenda a Festa de Iemanjá](https://www.youtube.com/watch?v=-2kWe_iJ-Sk). 🧊
-- Always in development. Feel free to talk to me about Web Development, Red Team, Game Development, Robotics (w/ Arduino) + Techs. ⚡ 
+- In short, I'm a creator who likes develop cool experiences.⚡ 
 
 #### Skills:
 - **Interpersonal skills:** (Creative, empathetic, non-sense).
-- **Programming Skills:** (C Language [Pointers, Memory Allocation, Structs, In/Outputs], JavaScript [jQuery], Shell Script [Task automation in Unix system], Python). <br>
-- **Software and Platforms:** (Git and Github, Docker, Slack, Microsoft Office [Power Point, Excel +], Adobe[Photoshop, Illustrator and Affter Effects]. <br>
-- **Operating Systems:** (Windows 7+, Linux Systems [Network & system administration]). <br>
+- **Programming Skills:** (C Language [Pointers, Memory Allocation, Structs, In/Outputs + ], JavaScript [jQuery, Angular, TypeScript and React], Shell Script [Task automation in Unix system], basic concepts of Python) <br>
+- **Software and Platforms:** (Git and Github, Virtual Machine , GSuit, Docker, Slack, Microsoft Office (Power Point, Excel +), NodeJS, AWS [Dynamodb, Lambda +]) <br>
+- **Operating Systems:**  (Windows 7+, Linux Systems (Network & system administration)) <br>
 - **Languages:** (Portuguese [Native], English [Intermediate - Limited working proficiency], French [Basic], and Brazilian Sign Language [Intermediate]). <br>
 
 #### Contact Information:

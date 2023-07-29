@@ -16,10 +16,11 @@ printf("I'm an Afro-Brazilian woman developing things! 🇧🇷👩🏾‍💻")
 
 #### Skills:
 - **Interpersonal skills:** (Creative, empathetic, non-sense).
-- **Programming Skills:** (C Language [Pointers, Memory Allocation, Structs, In/Outputs + ], JavaScript [jQuery, Angular, TypeScript and React], Shell Script [Task automation in Unix system], basic concepts of Python) <br>
-- **Software and Platforms:** (Git and Github, Virtual Machine , GSuit, Docker, Slack, Microsoft Office (Power Point, Excel +), NodeJS, AWS [Dynamodb, Lambda +]) <br>
-- **Operating Systems:**  (Windows 7+, Linux Systems (Network & system administration)) <br>
-- **Languages:** (Portuguese [Native], English [Intermediate - Limited working proficiency], French [Basic], and Brazilian Sign Language [Intermediate]). <br>
+- **Programming Skills:** C Language (Pointers, Memory Allocation, Structs, Input/Output +), JavaScript (jQuery, Angular, and TypeScript), Shell Script (Task automation in Unix system), basic concepts of Python.
+- **Software and Platforms:** Git and Github, Virtual Machine, G Suite, Docker, Slack, Microsoft Office (Power Point, Word, Excel +), Figma, Aseprite (for PixelArt), NodeJS, basic concepts of Amazon Web Services.
+- **Operating Systems:** Windows 7+, Linux Systems (Network & system administration).
+- **Languages:** Portuguese (Native), English (Intermediate - Limited working proficiency), French (Basic), and Brazilian Sign Language (Intermediate - Limited proficiency).
+
 
 #### Contact Information:
 

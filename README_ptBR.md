@@ -3,7 +3,7 @@
 </p>
 
 <p align="right">
- // Selecione sua preferência de idioma:  <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md">🇧🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_FR.md">🇫🇷</a>
+ // Selecione sua preferência de idioma: <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md">🇧🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_FR.md">🇫🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README.md">🇺🇸</a>
  </p>
 
 ```C

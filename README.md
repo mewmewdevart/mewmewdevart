@@ -15,7 +15,7 @@ printf("I'm an Afro-Brazilian woman developing things! 🇧🇷👩🏾‍💻")
 #### Well,
 - I'm a creator who likes develop cool experiences.⚡
 - I have a degree in Technology in Digital Games and student of Software Engineering at [42 São Paulo](https://www.42sp.org.br/) and a Security Information student at [San Jose Institute of Technology](https://www.linkedin.com/school/sjit/). I have a strong passion for exploring various technology areas, and I'm constantly engaged in personal development! 🌈⃤
-- Also, I'm a cat lover, pizza lover, bacon lover, coffee lover..
+- Also, I'm a cat lover, pizza lover, bacon lover, pixelart lover, coffee lover..
 
 #### Skills:
 - **Interpersonal skills:** (Creative, empathetic, non-sense).

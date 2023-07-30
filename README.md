@@ -1,6 +1,7 @@
-<p align="right">
-... ᴿᵉᵃᵈᴹᵉ ᶦⁿ ᴰᵉᵛᵉˡᵒᵖᵐᵉⁿᵗᵎ
+<p align="center">
+  <img src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/91336e2a-e91e-4b16-9274-d0cbd81373d8" width="200px" alt="image"/>
 </p>
+
 
 <p align="right">
  // Select your language preference:  <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md">🇧🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_FR.md">🇫🇷</a>

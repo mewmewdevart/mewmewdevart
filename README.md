@@ -13,7 +13,8 @@ printf("I'm an Afro-Brazilian woman developing things! 🇧🇷👩🏾‍💻")
 ``` 
 
 #### Currently,
-- In short, I'm a creator who likes develop cool experiences.⚡ 
+- I'm a creator who likes develop cool experiences.⚡
+- And a student of Software Engineering at [42 São Paulo](https://www.42sp.org.br/) and a Security Information student at [San Jose Institute of Technology](https://www.linkedin.com/school/sjit/). 🌈⃤
 
 #### Skills:
 - **Interpersonal skills:** (Creative, empathetic, non-sense).

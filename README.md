@@ -4,7 +4,7 @@
 
 
 <p align="right">
- // Select your language preference:  <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md">🇧🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_FR.md">🇫🇷</a>
+ // Select your language preference:  <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md">🇧🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_FR.md">🇫🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README.md">🇺🇸</a>
  </p>
 
 ```C

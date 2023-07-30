@@ -20,6 +20,7 @@ printf("Eu sou uma mulher afro-brasileira desenvolvendo coisas! 🇧🇷👩🏾
 #### Habilidades:
 - **Habilidades interpessoais**: (Criativa, empática, non-sense).
 - **Habilidades de programação**: Linguagem C (Ponteiros, Alocação de Memória, Estruturas, Entrada/Saída +), JavaScript (jQuery, Angular e TypeScript), Shell Script (Automação de tarefas em sistemas Unix), conceitos básicos de Python.
+- **Metodologias de Gerenciamento de Projetos:** Scrum e Kanban.
 - **Softwares e Plataformas**: Git e Github, Máquina Virtual, G Suite, Docker, Slack, Microsoft Office (Power Point, Word, Excel +), Figma, Aseprite (para PixelArt), NodeJS, conceitos básicos de Amazon Web Services.
 - **Sistemas Operacionais**: Windows 7+, Sistemas Linux (Administração de rede e sistema).
 - **Idiomas**: Português (Nativo), Inglês (Intermediário - Proficiência limitada para trabalho), Francês (Básico) e Língua Brasileira de Sinais (Intermediário - Proficiência limitada).

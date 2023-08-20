@@ -26,6 +26,10 @@ printf("I'm an Afro-Brazilian woman developing things! 🇧🇷👩🏾‍💻")
 - **Operating Systems:** Windows 7+, Linux Systems (Network & system administration).
 - **Languages:** Portuguese (Native), English (Intermediate - Limited working proficiency), French (Basic), and Brazilian Sign Language (Intermediate - Limited proficiency).
 
+#### Projects:
+- **[FrontEnd4Fun/](https://mewmewdevart.github.io/FrontEnd4Fun/)** Cool FrontEnd projects using HTML and CSS.
+- **[Windows98 Project/](https://github.com/mewmewdevart/windows98)** Website with design inspired by Windows 98 using Angular.
+- **[So_long/](https://github.com/mewmewdevart/so_long)** 2D game developed using C.
 
 #### Contact Information:
 

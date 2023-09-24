@@ -14,13 +14,12 @@ printf("Je suis une femme afro-brésilienne qui développe des choses ! 🇧🇷
 - Je suis diplômée en technologie des jeux numériques et étudiante en génie logiciel à 42 São Paulo et étudiante en sécurité de l'information à San Jose Institute of Technology. J'ai une forte passion pour explorer divers domaines technologiques et je suis constamment engagée dans le développement personnel ! 🌈⃤
 - Je suis également une amoureuse des chats, de la pizza, du bacon, des pixelarts, du café...
 
-#### Compétences :
-- **Compétences interpersonnelles:** (Créativité, empathie, absurde).
-- **Compétences en programmation:** Langage C (Pointeurs, Allocation mémoire, Structures, Entrées/Sorties +), JavaScript, Shell Script (Automatisation des tâches dans les systèmes Unix), notions de base de Python.
-- **Méthodologies de gestion de projet:** Scrum et Kanban.
-- **Logiciels et plateformes:** Git et Github, Machine virtuelle, G Suite, Docker, Slack, Microsoft Office (Power Point, Word, Excel +), Figma, Aseprite (pour le PixelArt), NodeJS, notions de base des services web Amazon.
-- **Systèmes d'exploitation:** Windows 7+, Systèmes Linux (Administration réseau et système).
-- **Langues:** Portugais (Langue maternelle), Anglais (Intermédiaire - Compétence limitée pour travailler), Français (Notions de base) et Langue des signes brésilienne (Intermédiaire - Compétence limitée).
+#### Compétences:
+- **Compétences en programmation:** Langage C (Pointeurs, Allocation mémoire, Structures, Entrée/Sortie +), JavaScript (jQuery, Angular et TypeScript), Shell Script (Automatisation des tâches sur les systèmes Unix) et Concepts de base en Python. <br>
+- **Méthodologies de gestion de projet:** Scrum et Kanban. <br>
+- **Logiciels et plateformes:** Git et Github, Machine virtuelle, G Suite, Docker, Slack, Microsoft Office (PowerPoint, Word, Excel +), Figma, Aseprite (pour PixelArt), NodeJS et Concepts de base d'AWS. <br>
+- **Systèmes d'exploitation:** Windows 7+ et Systèmes Linux (Administration réseau et système). <br>
+- **Langues:** Portugais (Natif), Anglais (Intermédiaire - Compétence limitée pour le travail), Français (De base) et Langue des signes brésilienne (Intermédiaire - Compétence limitée). <br>
 
 #### Informations de contact :
 

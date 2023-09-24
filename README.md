@@ -18,13 +18,11 @@ printf("I'm an Afro-Brazilian woman developing things! 🇧🇷👩🏾‍💻")
 - Also, I'm a cat lover, pizza lover, bacon lover, pixelart lover, coffee lover..
 
 #### Skills:
-- **Interpersonal skills:** (Creative, empathetic, non-sense).
-- **Programming Skills:** C Language (Pointers, Memory Allocation, Structs, Input/Output +), JavaScript, Shell Script (Task automation in Unix system), basic concepts of Python.
-- **Frameworks:** Angular, "TypeScript" and Bootstrap.
-- **Project Management Methodologies:** Scrum and Kanban.
-- **Software and Platforms:** Git and Github, Virtual Machine, G Suite, Docker, Slack, Microsoft Office (Power Point, Word, Excel +), Figma, Aseprite (for PixelArt), NodeJS, basic concepts of Amazon Web Services.
-- **Operating Systems:** Windows 7+, Linux Systems (Network & system administration).
-- **Languages:** Portuguese (Native), English (Intermediate - Limited working proficiency), French (Basic), and Brazilian Sign Language (Intermediate - Limited proficiency).
+- **Programming Skills:** C Language (Pointers, Memory Allocation, Structures, Input/Output +), JavaScript (jQuery, Angular, and TypeScript), Shell Script (Automation of tasks on Unix systems), and Basic Python Concepts. <br>
+- **Project Management Methodologies:** Scrum and Kanban. <br>
+- **Software and Platforms:** Git and Github, Virtual Machine, G Suite, Docker, Slack, Microsoft Office (PowerPoint, Word, Excel +), Figma, Aseprite (for PixelArt), NodeJS, and Basic AWS Concepts. <br>
+- **Operating Systems:** Windows 7+ and Linux Systems (Network and System Administration). <br>
+- **Languages:** Portuguese (Native), English (Intermediate - Limited proficiency for work), French (Basic), and Brazilian Sign Language (Intermediate - Limited proficiency). <br>
 
 #### Contact Information:
 

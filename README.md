@@ -26,24 +26,11 @@ printf("I'm an Afro-Brazilian woman developing things! 🇧🇷👩🏾‍💻")
 - **Operating Systems:** Windows 7+, Linux Systems (Network & system administration).
 - **Languages:** Portuguese (Native), English (Intermediate - Limited working proficiency), French (Basic), and Brazilian Sign Language (Intermediate - Limited proficiency).
 
-#### Projects:
-- **[FrontEnd4Fun/](https://mewmewdevart.github.io/FrontEnd4Fun/)** Cool FrontEnd projects using HTML and CSS.
-- **[Windows98 Project/](https://github.com/mewmewdevart/windows98)** Website with design inspired by Windows 98 using Angular.
-- **[So_long/](https://github.com/mewmewdevart/so_long)** 2D game developed using C.
-
 #### Contact Information:
 
 - Email: [larcrist@student.42sp.org.br](mailto:larcrist@student.42sp.org.br)
 - Discord: `Mewmew#9198`
 
-
-<!--
-
-**• Programming Skills:** (C Language (Pointers, Memory Allocation, Structs, In/Outputs), JavaScript (jQuery), Shell Script (Task automation in Unix system), Python) <br>
-**• Software and Platforms:** (Git and Github, Docker, Slack, Microsoft Office (Power Point, Excel +)) <br>
-**• Operating Systems:** (Windows 7+, Linux Systems (Network & system administration)) <br>
-**• Languages:** (Portuguese (Native), English (Intermediate - Limited working proficiency), French (Basic), and Brazilian Sign Language (Intermediate)) <br>
--->
 ---
 <a href="https://www.linkedin.com/in/mewmewdevart/">
   <img align="left" alt="Larissa's Linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />

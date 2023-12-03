@@ -1,46 +1,35 @@
-<p align="center">
-  <img src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/91336e2a-e91e-4b16-9274-d0cbd81373d8" width="200px" alt="image"/>
-</p>
-<p align="right"> // Sélectionnez votre préférence linguistique : <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md">🇧🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_FR.md">🇫🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README.md">🇺🇸</a>
- </p>
-
 ```C
+ __ __ ___  _   _  __ __ ___  _   _  __  ___ _   _   __  ___ _____    
+|  V  | __|| | | ||  V  | __|| | | || _\| __| \ / | /  \| _ \_   _|     |\---/|
+| \_/ | _| | 'V' || \_/ | _| | 'V' || v | _|`\ V /'| /\ | v / | |       | o_o |
+|_| |_|___|!_/ \_!|_| |_|___|!_/ \_!|__/|___| \_/  |_||_|_|_\ |_|        \_^_/
+ 
 printf("Bonjour le monde ! 🌎");
-printf("Je suis une femme afro-brésilienne qui développe des choses ! 🇧🇷👩🏾‍💻");
+printf("Je suis une femme afro-brésilienne en train de développer des choses ! 🇧🇷👩🏾‍💻"); 
+
 ```
 
-#### Eh bien,
-- Je suis une créatrice qui aime développer des expériences cool. ⚡
-- Je suis diplômée en technologie des jeux numériques et étudiante en génie logiciel à 42 São Paulo et étudiante en sécurité de l'information à San Jose Institute of Technology. J'ai une forte passion pour explorer divers domaines technologiques et je suis constamment engagée dans le développement personnel ! 🌈⃤
-- Je suis également une amoureuse des chats, de la pizza, du bacon, des pixelarts, du café...
+<p align="right">
+ // Sélectionnez votre préférence linguistique :  <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md">🇧🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_FR.md">🇫🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README.md">🇺🇸</a>
+ </p>
 
-#### Compétences:
-- **Compétences en programmation:** Langage C (Pointeurs, Allocation mémoire, Structures, Entrée/Sortie +), JavaScript (jQuery, Angular et TypeScript), Shell Script (Automatisation des tâches sur les systèmes Unix) et Concepts de base en Python. <br>
-- **Méthodologies de gestion de projet:** Scrum et Kanban. <br>
-- **Logiciels et plateformes:** Git et Github, Machine virtuelle, G Suite, Docker, Slack, Microsoft Office (PowerPoint, Word, Excel +), Figma, Aseprite (pour PixelArt), NodeJS et Concepts de base d'AWS. <br>
-- **Systèmes d'exploitation:** Windows 7+ et Systèmes Linux (Administration réseau et système). <br>
-- **Langues:** Portugais (Natif), Anglais (Intermédiaire - Compétence limitée pour le travail), Français (De base) et Langue des signes brésilienne (Intermédiaire - Compétence limitée). <br>
+### Eh bien,
+- Je suis une créatrice qui aime développer des expériences excitantes.⚡
+- Je suis diplômée en Technologie des Jeux Numériques et je suis actuellement étudiante en Génie Logiciel à [42 São Paulo](https://www.42sp.org.br/) et étudiante en Sécurité de l'Information au [San Jose Institute of Technology](https://www.linkedin.com/school/sjit/).  <br> J'ai une forte passion pour explorer divers domaines de la technologie et je suis constamment engagée dans le développement personnel! 🌈⃤
+- De plus, je suis une enthousiaste des chats, de la pizza, du bacon, de l'art pixelisé et du café.
 
-#### Informations de contact :
+### Compétences:
+- **Compétences en Programmation:** <br>
+Maîtrise de la langue C (y compris les pointeurs, l'allocation de mémoire, les structures, l'entrée/sortie +), JavaScript (jQuery, Angular et TypeScript), Shell Script (Automatisation des tâches sur les systèmes Unix) et Concepts de base de Python.
+- **Méthodologies de Gestion de Projet:** <br>
+Expérience en Scrum et Kanban.
+- **Logiciels et Plateformes:** <br>
+Familier avec Git et Github, Machines Virtuelles, G Suite, Docker, Slack, Microsoft Office (PowerPoint, Word, Excel +), Figma, Aseprite (pour PixelArt), NodeJS et Concepts de base d'AWS.
+- **Systèmes d'Exploitation:** <br>
+Compétente sur Windows 7+ et les systèmes Linux (Administration réseau et système).
+- **Langues:** <br>
+Couramment en portugais (natif), compétence intermédiaire en anglais (limitée pour le travail), connaissance de base du français et compétence intermédiaire en Langue des Signes Brésilienne.
 
-- Email: [larcrist@student.42sp.org.br](mailto:larcrist@student.42sp.org.br)
-- Discord: `Mewmew#9198`
-
-<hr>
-
-<a href="https://www.linkedin.com/in/mewmewdevart/">
-  <img align="left" alt="Lien vers le profil Linkedin de Larissa" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
-<a href="https://mewmewdevart.itch.io/">
-  <img align="left" alt="Lien vers le profil Itch.io de Larissa" width="20px" src="https://simpleicons.now.sh/itchdotio/495f7e" />
-</a>
-<a href="https://br.fiverr.com/mewmewdevart">
-  <img align="left" alt="Page Fiverr de Larissa" width="20px" src="https://simpleicons.now.sh/fiverr/495f7e" />
-</a>
-|   Autres choses sympas à propos de moi : <a rel="nofollow noopener noreferrer" target="_blank" href=https://linktr.ee/mewmewdevart///>https://linktr.ee/mewmewdevart</a>   |   Invitez-moi à un projet open-source ! 💙
-<br>
-
-
-
-
-
+### Informations de Contact:
+- **Email:** [larcrist@student.42sp.org.br](mailto:larcrist@student.42sp.org.br)
+- **Discord:** `Mewmew#9198`

@@ -1,14 +1,9 @@
 ```C
- __ __ ___  _   _  __ __ ___  _   _  __  ___ _   _   __  ___ _____    
-|  V  | __|| | | ||  V  | __|| | | || _\| __| \ / | /  \| _ \_   _|     |\---/|
-| \_/ | _| | 'V' || \_/ | _| | 'V' || v | _|`\ V /'| /\ | v / | |       | o_o |
-|_| |_|___|!_/ \_!|_| |_|___|!_/ \_!|__/|___| \_/  |_||_|_|_\ |_|        \_^_/
- 
 printf("Hello World! 🌎");
-printf("I'm an Afro-Brazilian woman developing things! 🇧🇷👩🏾‍💻");
+printf("I'm Larissa, also known as Mewmew. I'm a software developer who is also passionate about graphic design! 🇧🇷👩🏾‍💻");
 
 ```
-
+<!-- 
 <p align="right">
  // Select your language preference:  <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md">🇧🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_FR.md">🇫🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README.md">🇺🇸</a>
  </p>
@@ -20,6 +15,18 @@ printf("I'm an Afro-Brazilian woman developing things! 🇧🇷👩🏾‍💻")
 - Additionally, I'm an enthusiast of cats, pizza, bacon, pixel art, and coffee.
 
 ### Skills:
+
+A software developer who is also passionate about graphic design.
+- Front-end Development using HTML, CSS (SASS, SCSS), JavaScript/TypeScript, React, and Angular.
+- Back-end Development with C, Java, and NodeJS.
+- Web Design using Figma and creating cool things with Pixelart using Aseprite.
+- Automation of tasks on Unix systems using Shell Script.
+- Project management through the Scrum and Kanban methodologies.
+
+
+
+
+
 - **Programming Skills:** <br>
 Proficient in C Language (including Pointers, Memory Allocation, Structures, Input/Output +), JavaScript (jQuery, Angular, and TypeScript), Shell Script (Automation of tasks on Unix systems), and Basic Python Concepts.
 - **Project Management Methodologies:** <br>
@@ -33,4 +40,4 @@ Fluent in Portuguese (Native), Intermediate proficiency in English (Limited for 
 
 ### Contact Information:
 - **Email:** [larcrist@student.42sp.org.br](mailto:larcrist@student.42sp.org.br)
-- **Discord:** `Mewmew#9198`
+- **Discord:** `Mewmew#9198` -->

@@ -1,6 +1,6 @@
 ```C
 printf("Hello World! 🌎");
-printf("I'm Larissa, also known as Mewmew. I'm a software developer who is also passionate about graphic design! 🇧🇷👩🏾‍💻");
+printf("I'm a software developer who is also passionate about graphic design! 🇧🇷👩🏾‍💻");
 
 ```
 <!-- 

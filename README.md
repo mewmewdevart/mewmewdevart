@@ -1,8 +1,36 @@
-```C
-printf("Hello World! 🌎");
-printf("I'm a software developer who is also passionate about graphic design! 🇧🇷👩🏾‍💻");
+<!-- 
+<p align="right">
+ // Select your language preference:  <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md">🇧🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_FR.md">🇫🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README.md">🇺🇸</a>
+ </p>
+-->
 
+
+```C
+ __ __ ___  _   _  __ __ ___  _   _  __  ___ _   _   __  ___ _____    
+|  V  | __|| | | ||  V  | __|| | | || _\| __| \ / | /  \| _ \_   _|     |\---/|
+| \_/ | _| | 'V' || \_/ | _| | 'V' || v | _|`\ V /'| /\ | v / | |       | o_o |
+|_| |_|___|!_/ \_!|_| |_|___|!_/ \_!|__/|___| \_/  |_||_|_|_\ |_|        \_^_/
+ 
+printf("Hello World! 🌎");
+printf("I'm a software developer who is also passionate about graphic design! 🇧🇷👩🏾‍💻💜"); 
 ```
+
+- I'm an introvert who loves exploring the world while connecting with people;
+- I have a great passion for exploring various areas of culture and technology.
+- I often say that I am always in development.
+
+#### Skills:
+- Front-end Development using HTML, CSS (SASS, SCSS), JavaScript/TypeScript, React, and Angular.
+- Back-end Development with C, Java, and NodeJS.
+- Web Design using Figma and creating cool things with Pixelart using Aseprite.
+- Automation of tasks on Unix systems using Shell Script.
+- Project management through the Scrum and Kanban methodologies.
+
+#### Contact Information:
+- **Linkedin:** [Larissa Cristina Benedito](https://www.linkedin.com/in/mewmewdevart/)
+- **Discord:** `Mewmew#9198`
+
+
 <!-- 
 <p align="right">
  // Select your language preference:  <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md">🇧🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_FR.md">🇫🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README.md">🇺🇸</a>
@@ -23,7 +51,9 @@ A software developer who is also passionate about graphic design.
 - Automation of tasks on Unix systems using Shell Script.
 - Project management through the Scrum and Kanban methodologies.
 
-
+### Contact Information:
+- **Email:** [larcrist@student.42sp.org.br](mailto:larcrist@student.42sp.org.br)
+- **Discord:** `Mewmew#9198`
 
 
 

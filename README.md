@@ -26,6 +26,11 @@ printf("I'm a software developer who is also passionate about graphic design! �
 - Automation of tasks on Unix systems using Shell Script.
 - Project management through the Scrum and Kanban methodologies.
 
+#### Projects:
+📁 | <a href="https://github.com/mewmewdevart/42Projects"  target="_blank">42Projects/ Projects developed at 42 São Paulo, a programming school </a> <br>
+📁 | <a href="https://mewmewdevart.github.io/FrontEnd4Fun/"  target="_blank">FrontEnd4Fun/ CSSArt </a> <br>
+📁 | <a href="https://github.com/mewmewdevart/42CSSTober"  target="_blank">42CSSTober/  a CSS illustration for each day in October challenge </a> <br>
+
 #### Contact Information:
 - **Linkedin:** [Larissa Cristina Benedito](https://www.linkedin.com/in/mewmewdevart/)
 - **Discord:** `Mewmew#9198`

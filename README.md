@@ -20,7 +20,7 @@ printf("I'm a software developer who is also passionate about graphic design! �
 
 #### Skills:
 - Front-end Development using HTML, CSS (SASS, SCSS), JavaScript/TypeScript (React, and Angular).
-- Back-end Development with C, Java, and Python.
+- Back-end Development with C, Java, Python ...
 - Web Design using Figma and creating cool things, and illustration with Pixelart using Aseprite.
 - Automation of tasks on Unix systems using Shell Script.
 - Project management through the Scrum and Kanban methodologies.
@@ -33,7 +33,7 @@ printf("I'm a software developer who is also passionate about graphic design! �
 📁 | [Game-KerbyEdition/ : A "ship" game made with HTML, CSS, and JS, for study purposes](https://github.com/mewmewdevart/KerbyEditionGame) <br>
 
 #### Contributions:
-📁 | [He4rToBerFest-2023/ : Contribuição para o desafio da comunidade Heart To Ber Fest](https://github.com/mewmewdevart/He4rToBerFest-2023) <br>
+📁 | [He4rToBerFest-2023/ : Contribution to the Heart To Ber Fest community challenge](https://github.com/mewmewdevart/He4rToBerFest-2023) <br>
 📁 | [42CSSTober/ : A CSS illustration for each day in October challenge](https://github.com/mewmewdevart/42CSSTober) <br>
 📁 | [Dojos/CSSDesafios/00_Gatinho/ : Dojo contribution to be reproduced at 42 São Paulo](https://github.com/42sp/dojos/tree/main/CSSDesafios/00_Gatinho) <br>
 📁 | [mewmewdevart/FarmandoXPJam Game : Developed in a group during the FarmandoXPJam Game Jam](https://github.com/mewmewdevart/FarmandoXPJam) <br>

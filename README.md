@@ -27,5 +27,6 @@ printf("I'm a software developer who is also passionate about graphic design! ðŸ
 - Languages: Brazilian Portuguese (Native), English (Intermediate), French (Basic), Brazilian Sign Language (Intermediate).
 
 #### Contact Information:
+- **My IT portfolio:** [https://mewmewdev.com/](https://mewmewdev.com/)
 - **LinkedIn:** [Larissa Cristina Benedito](https://www.linkedin.com/in/mewmewdevart/)
 - **Discord:** `Mewmew#9198`

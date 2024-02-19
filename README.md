@@ -1,5 +1,7 @@
-![banner](https://github.com/mewmewdevart/mewmewdevart/assets/50052600/857476fb-2ec9-4ee8-a344-f3f98174075a)
 
+<p align="center">
+  <img src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/857476fb-2ec9-4ee8-a344-f3f98174075a" width="100%" alt="Custom banner in pixelart with 01 numbers"/>
+</p>
 
 <!-- 
 <p align="right">

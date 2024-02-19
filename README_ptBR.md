@@ -1,36 +1,31 @@
-```C
- __ __ ___  _   _  __ __ ___  _   _  __  ___ _   _   __  ___ _____    
-|  V  | __|| | | ||  V  | __|| | | || _\| __| \ / | /  \| _ \_   _|     |\---/|
-| \_/ | _| | 'V' || \_/ | _| | 'V' || v | _|`\ V /'| /\ | v / | |       | o_o |
-|_| |_|___|!_/ \_!|_| |_|___|!_/ \_!|__/|___| \_/  |_||_|_|_\ |_|        \_^_/
- 
-printf("Olá Mundo! 🌎");
-printf("Eu sou uma mulher afro-brasileira desenvolvendo coisas! 🇧🇷👩🏾‍💻");
-
-```
+<p align="center">
+  <img src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/857476fb-2ec9-4ee8-a344-f3f98174075a" width="100%" alt="Banner personalizado em pixelart com números 01"/>
+</p>
 
 <p align="right">
  // Selecione sua preferência de idioma:  <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md">🇧🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_FR.md">🇫🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README.md">🇺🇸</a>
  </p>
  
+```C
+printf("Olá, Mundo! 🌎");
+printf("Sou uma desenvolvedora de software apaixonada por design gráfico! 🇧🇷👩🏾‍💻💜"); 
+```
 
-### Bem,
-- Sou uma criadora que gosta de desenvolver experiências emocionantes.⚡
-- Tenho formação em Tecnologia em Jogos Digitais e atualmente sou estudante de Engenharia de Software na [42 São Paulo](https://www.42sp.org.br/) e estudante de Segurança da Informação no [Instituto de Tecnologia de San Jose](https://www.linkedin.com/school/sjit/).  <br> Tenho uma forte paixão por explorar diversas áreas de tecnologia e estou sempre envolvida em desenvolvimento pessoal! 🌈⃤
-- Além disso, sou entusiasta de gatos, pizza, bacon, arte pixelada e café.
+- Sou introvertida e adoro explorar o mundo enquanto me conecto com as pessoas.
+- Tenho uma grande paixão por explorar diversas áreas da cultura e tecnologia.
+- Costumo dizer que estou sempre em desenvolvimento.
 
-### Habilidades:
-- **Habilidades de Programação:** <br>
-Proficiente em Linguagem C (incluindo Ponteiros, Alocação de Memória, Estruturas, Entrada/Saída +), JavaScript (jQuery, Angular e TypeScript), Shell Script (Automação de tarefas em sistemas Unix) e Conceitos Básicos de Python.
-- **Metodologias de Gerenciamento de Projetos:** <br>
-Experiência em Scrum e Kanban.
-- **Software e Plataformas:** <br>
-Familiarizada com Git e Github, Máquinas Virtuais, G Suite, Docker, Slack, Microsoft Office (PowerPoint, Word, Excel +), Figma, Aseprite (para PixelArt), NodeJS e Conceitos Básicos da AWS.
-- **Sistemas Operacionais:** <br>
-Competente em Windows 7+ e Sistemas Linux (Administração de Rede e Sistema).
-- **Idiomas:** <br>
-Fluente em Português (Nativo), Proficiência Intermediária em Inglês (Limitada para trabalho), Conhecimento Básico de Francês e Proficiência Intermediária em Língua Brasileira de Sinais.
+#### Habilidades:
+- Programação: FrontEnd (SASS/SCSS, Angular [Material UI e PO-UI]/React/Bootstrap), BackEnd (C [Ponteiros, alocação de memória, structs, entrada/saída, etc.], automação com Shell Script e conceitos básicos em Python/Java).
+- Qualidade: Acessibilidade WCAG, Código Limpo, Desenvolvimento Orientado a Testes (TDD).
+- Software e Plataformas: Git (pull, commit, branching, merging, rebase), Docker, conceitos de Amazon Web Services (AWS), Figma (Prototipagem de Interface), Adobe (Photoshop, Illustrator e After Effects).
+- Metodologias e organização: Scrum e Kanban, GSUIT, Slack, Microsoft Teams, Discord.
+- Sistemas Operacionais: Linux (Administração de Rede e Configuração do Sistema), Windows +7 (Prompt de Comando, gerenciamento de disco e controle de usuário).
+- Idiomas: Português Brasileiro (Nativo), Inglês (Intermediário), Francês (Básico), Língua Brasileira de Sinais (Intermediário).
 
-### Informações de Contato:
-- **Email:** [larcrist@student.42sp.org.br](mailto:larcrist@student.42sp.org.br)
-- **Discord:** `Mewmew#9198`
+#### Informações de Contato:
+- Meu portfólio de TI: [https://mewmewdev.com/](https://mewmewdev.com/)
+- LinkedIn: [Larissa Cristina Benedito](https://www.linkedin.com/in/mewmewdevart/)
+- Discord: `Mewmew#9198`
+
+<p align="center"> By 💜 Larissa Cristina Benedito/Mewmew/Larcrist </p>

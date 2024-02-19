@@ -1,35 +1,31 @@
-```C
- __ __ ___  _   _  __ __ ___  _   _  __  ___ _   _   __  ___ _____    
-|  V  | __|| | | ||  V  | __|| | | || _\| __| \ / | /  \| _ \_   _|     |\---/|
-| \_/ | _| | 'V' || \_/ | _| | 'V' || v | _|`\ V /'| /\ | v / | |       | o_o |
-|_| |_|___|!_/ \_!|_| |_|___|!_/ \_!|__/|___| \_/  |_||_|_|_\ |_|        \_^_/
- 
-printf("Bonjour le monde ! 🌎");
-printf("Je suis une femme afro-brésilienne en train de développer des choses ! 🇧🇷👩🏾‍💻"); 
-
-```
+<p align="center">
+  <img src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/857476fb-2ec9-4ee8-a344-f3f98174075a" width="100%" alt="Bannière personnalisée en pixelart avec chiffres 01"/>
+</p>
 
 <p align="right">
- // Sélectionnez votre préférence linguistique :  <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md">🇧🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_FR.md">🇫🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README.md">🇺🇸</a>
+ // Choisissez votre préférence de langue :  <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md">🇧🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_FR.md">🇫🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README.md">🇺🇸</a>
  </p>
+ 
+```C
+printf("Bonjour, le monde ! 🌎");
+printf("Je suis une développeuse de logiciels passionnée par le design graphique ! 🇧🇷👩🏾‍💻💜"); 
+```
 
-### Eh bien,
-- Je suis une créatrice qui aime développer des expériences excitantes.⚡
-- Je suis diplômée en Technologie des Jeux Numériques et je suis actuellement étudiante en Génie Logiciel à [42 São Paulo](https://www.42sp.org.br/) et étudiante en Sécurité de l'Information au [San Jose Institute of Technology](https://www.linkedin.com/school/sjit/).  <br> J'ai une forte passion pour explorer divers domaines de la technologie et je suis constamment engagée dans le développement personnel! 🌈⃤
-- De plus, je suis une enthousiaste des chats, de la pizza, du bacon, de l'art pixelisé et du café.
+- Je suis introvertie et j'adore explorer le monde tout en me connectant avec les gens.
+- J'ai une grande passion pour explorer divers domaines de la culture et de la technologie.
+- Je dis souvent que je suis toujours en développement.
 
-### Compétences:
-- **Compétences en Programmation:** <br>
-Maîtrise de la langue C (y compris les pointeurs, l'allocation de mémoire, les structures, l'entrée/sortie +), JavaScript (jQuery, Angular et TypeScript), Shell Script (Automatisation des tâches sur les systèmes Unix) et Concepts de base de Python.
-- **Méthodologies de Gestion de Projet:** <br>
-Expérience en Scrum et Kanban.
-- **Logiciels et Plateformes:** <br>
-Familier avec Git et Github, Machines Virtuelles, G Suite, Docker, Slack, Microsoft Office (PowerPoint, Word, Excel +), Figma, Aseprite (pour PixelArt), NodeJS et Concepts de base d'AWS.
-- **Systèmes d'Exploitation:** <br>
-Compétente sur Windows 7+ et les systèmes Linux (Administration réseau et système).
-- **Langues:** <br>
-Couramment en portugais (natif), compétence intermédiaire en anglais (limitée pour le travail), connaissance de base du français et compétence intermédiaire en Langue des Signes Brésilienne.
+Compétences :
+- Programmation : FrontEnd (SASS/SCSS, Angular [Material UI et PO-UI]/React/Bootstrap), BackEnd (C [Pointeurs, allocation de mémoire, structures, entrée/sortie, etc.], automatisation avec Shell Script et concepts de base en Python/Java).
+- Qualité : Accessibilité WCAG, Code propre, Développement piloté par les tests (TDD).
+- Logiciels et plates-formes : Git (pull, commit, branching, merging, rebase), Docker, concepts des services web Amazon (AWS), Figma (Prototypage d'interface), Adobe (Photoshop, Illustrator et After Effects).
+- Méthodologies et organisation : Scrum et Kanban, GSUIT, Slack, Microsoft Teams, Discord.
+- Systèmes d'exploitation : Linux (Administration réseau et configuration système), Windows +7 (Invite de commandes, gestion des disques et contrôle des utilisateurs).
+- Langues : Portugais brésilien (Natif), Anglais (Intermédiaire), Français (Débutant), Langue des signes brésilienne (Intermédiaire).
 
-### Informations de Contact:
-- **Email:** [larcrist@student.42sp.org.br](mailto:larcrist@student.42sp.org.br)
-- **Discord:** `Mewmew#9198`
+Informations de contact :
+- Mon portfolio informatique : [https://mewmewdev.com/](https://mewmewdev.com/)
+- LinkedIn : [Larissa Cristina Benedito]https://www.linkedin.com/in/mewmewdevart/)
+- Discord : `Mewmew#9198`
+  
+<p align="center"> 💜 Larissa Cristina Benedito/Mewmew/Larcrist </p>

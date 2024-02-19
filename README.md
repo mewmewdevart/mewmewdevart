@@ -1,8 +1,11 @@
+![banner](https://github.com/mewmewdevart/mewmewdevart/assets/50052600/857476fb-2ec9-4ee8-a344-f3f98174075a)
+
+
 <!-- 
 <p align="right">
  // Select your language preference:  <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md">🇧🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_FR.md">🇫🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README.md">🇺🇸</a>
  </p>
--->
+
 
 ```C
  __ __ ___  _   _  __ __ ___  _   _  __  ___ _   _   __  ___ _____    
@@ -30,3 +33,5 @@ printf("I'm a software developer who is also passionate about graphic design! �
 - **My IT portfolio:** [https://mewmewdev.com/](https://mewmewdev.com/)
 - **LinkedIn:** [Larissa Cristina Benedito](https://www.linkedin.com/in/mewmewdevart/)
 - **Discord:** `Mewmew#9198`
+
+-->

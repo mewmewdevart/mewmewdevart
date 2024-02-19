@@ -3,6 +3,10 @@
   <img src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/857476fb-2ec9-4ee8-a344-f3f98174075a" width="100%" alt="Custom banner in pixelart with 01 numbers"/>
 </p>
 
+<p align="right">
+ // Select your language preference:  <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md">🇧🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_FR.md">🇫🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README.md">🇺🇸</a>
+ </p>
+ 
 ```C
 printf("Hello, World! 🌎");
 printf("I'm a software developer who is also passionate about graphic design! 🇧🇷👩🏾‍💻💜"); 

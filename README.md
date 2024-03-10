@@ -20,8 +20,8 @@ printf("Reality's an illusion, the universe is a hologram!\n");
 
 ----
 
-<a href="https://twitter.com/moertel">
-  <img align="left" alt="Stefanie's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/BD93F9" />
+<a href="https://twitter.com/mewmewdevart">
+  <img align="left" alt="Larissa's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/BD93F9" />
 </a>
 <a href="https://www.instagram.com/mewmewcreator">
   <img align="left" alt="Larissa's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/BD93F9" />

@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/9d48e53d-61c3-47b5-b6d8-360537f20788" width="50px" alt="Cat animation"/>
-</p>
+
+![banner](https://github.com/mewmewdevart/mewmewdevart/assets/50052600/c296ab74-9ef4-4de7-a800-161890d5f8b1)
 
 ```C
 printf("Hello, World! 🌎");

@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/1370ee45-aa0b-4af1-9ee4-53b4c9d3c92e" width="350px" alt="Black woman in pixelart"/>
+</p>
 
-![banner](https://github.com/mewmewdevart/mewmewdevart/assets/50052600/c296ab74-9ef4-4de7-a800-161890d5f8b1)
 
 ```C
 printf("Hello, World! 🌎");

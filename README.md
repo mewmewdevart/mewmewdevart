@@ -11,11 +11,11 @@ printf("Reality's an illusion, the universe is a hologram!\n");
 #### A Full-Stack Developer by day ☼ and a not-so-anonymous creator by night ☾
 
 **Fullstack Developer** &#12299;_ Works on defining architecture, database modeling, creating APIs, and implementing layouts. <br>
-**Pixel Designer** &#12299;_ Creates personalized visual identities using pixel art. <br>
-**Developer/Founder** &#12299;_ Connects developers with people, promoting free technical solutions for organizations/institutions.
+**Pixel Designer** &#12299;_ Creates personalized visual identities using pixel art (for custom comissions). <br>
+**Developer/Founder** &#12299;_ Connects developers with people, promoting free technical solutions for organizations/institutions. <br>
+**Volunteer** &#12299; _ Volunteer at Technology and Culture events
 
-
-- ⚙️ I use daily: `.tsx`, `.py`, `.c`, `.sh`, `.html`, `.css`, `.aseprite`
+- 🧠 Currentlyn, I'm learning [Web Accessibility](https://github.com/mewmewdevart/accessibility) and delving deeper into [Typescript](https://github.com/mewmewdevart/typescript)
 - 🌍 I'm mostly active within the **Developers Community**
 - 💬 `ping` me about **design**, **development**, **games**, **open source**, **security**
 

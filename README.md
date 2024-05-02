@@ -15,7 +15,7 @@ printf("Reality's an illusion, the universe is a hologram!\n");
 **Developer/Founder** &#12299;_ Connects developers with people, promoting free technical solutions for organizations/institutions.
 
 
-- ⚙️ I use daily: `.js`, `.py`, `.c`, `.sh`, `.html`, `.css`, `.aseprite`
+- ⚙️ I use daily: `.tsx`, `.py`, `.c`, `.sh`, `.html`, `.css`, `.aseprite`
 - 🌍 I'm mostly active within the **Developers Community**
 - 💬 `ping` me about **design**, **development**, **games**, **open source**, **security**
 

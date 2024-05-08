@@ -1,3 +1,4 @@
+<!-- 
 <p align="center">
   <img src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/1370ee45-aa0b-4af1-9ee4-53b4c9d3c92e" width="350px" alt="Black woman in pixelart"/>
 </p>
@@ -43,3 +44,5 @@ printf("Reality's an illusion, the universe is a hologram!\n");
 </a>
 
 | &nbsp;&nbsp;&nbsp; IT Portfolio: [https://mewmewdev.com/](https://mewmewdev.com/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work: <sub> ♡ ♡ ♡ ♡ ♡</sub>
+
+-->

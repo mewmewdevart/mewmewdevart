@@ -19,7 +19,7 @@ printf("Reality's an illusion, the universe is a hologram!\n");
   <img align="left" alt="Larissa's Behance" width="20px" src="https://simpleicons.now.sh/behance/8977C9" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; IT Portfolio: [https://mewmewdev.com/](https://mewmewdev.com/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work: <sub> ♡ ♡ ♡ ♡ ♡</sub>
+| &nbsp;&nbsp;&nbsp; IT Portfolio: [https://mewmewdev.com/](https://mewmewdev.com/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work: <sub> ♡ ♡ ♡ ♡  ♡ ♡</sub>
 
 
 <!-- 

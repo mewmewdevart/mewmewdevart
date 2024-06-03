@@ -6,17 +6,17 @@ printf("Reality's an illusion, the universe is a hologram!\n");
 ----
 
 <a href="https://twitter.com/mewmewdevart">
-  <img align="left" alt="Larissa's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/8977C9" />
+  <img align="left" alt="Larissa's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/5B6EE1" />
 </a>
 <a href="https://www.instagram.com/mewmewcreator">
-  <img align="left" alt="Larissa's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/8977C9" />
+  <img align="left" alt="Larissa's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/5B6EE1" />
 </a>
 <a href="https://www.linkedin.com/in/mewmewdevart/">
-  <img align="left" alt="Larissa's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/8977C9" />
+  <img align="left" alt="Larissa's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/5B6EE1" />
 </a>
 
 <a href="https://behance.net/moertel">
-  <img align="left" alt="Larissa's Behance" width="20px" src="https://simpleicons.now.sh/behance/8977C9" />
+  <img align="left" alt="Larissa's Behance" width="20px" src="https://simpleicons.now.sh/behance/5B6EE1" />
 </a>
 
 | &nbsp;&nbsp;&nbsp; IT Portfolio: [https://mewmewdev.com/](https://mewmewdev.com/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work: <sub> ♡ ♡ ♡ ♡  ♡ ♡</sub>
@@ -54,17 +54,17 @@ printf("Reality's an illusion, the universe is a hologram!\n");
 ----
 
 <a href="https://twitter.com/mewmewdevart">
-  <img align="left" alt="Larissa's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/8977C9" />
+  <img align="left" alt="Larissa's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/5B6EE1" />
 </a>
 <a href="https://www.instagram.com/mewmewcreator">
-  <img align="left" alt="Larissa's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/8977C9" />
+  <img align="left" alt="Larissa's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/5B6EE1" />
 </a>
 <a href="https://www.linkedin.com/in/mewmewdevart/">
-  <img align="left" alt="Larissa's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/8977C9" />
+  <img align="left" alt="Larissa's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/5B6EE1" />
 </a>
 
 <a href="https://behance.net/moertel">
-  <img align="left" alt="Larissa's Behance" width="20px" src="https://simpleicons.now.sh/behance/8977C9" />
+  <img align="left" alt="Larissa's Behance" width="20px" src="https://simpleicons.now.sh/behance/5B6EE1" />
 </a>
 
 | &nbsp;&nbsp;&nbsp; IT Portfolio: [https://mewmewdev.com/](https://mewmewdev.com/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work: <sub> ♡ ♡ ♡ ♡ ♡</sub>

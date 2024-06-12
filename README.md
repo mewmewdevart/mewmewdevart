@@ -1,7 +1,16 @@
 ```C
 printf("Hello, World! 🌎");
-printf("Reality's an illusion, the universe is a hologram!\n");
+printf("My name is Larissa, but you can also call me Mewmew!\n");
 ```
+
+#### Projects /
+
+[<img align="left" height="64px" width="64px" style="margin-right: 40px" alt="Redis logo" src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/79d05977-4758-4134-94ee-7dd14b5c6a65"/>](https://github.com/ThreeDP/build-a-redis)
+
+**C, Shell and Makefile | Game 2D** \
+[**so_long**](https://github.com/mewmewdevart/so_long) • 2023 </br>A mini game using the C language, applying data structures and a heuristic search algorithm.
+
+
 
 ----
 

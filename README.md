@@ -14,8 +14,13 @@ printf("My name is Larissa, but you can also call me Mewmew!\n");
 [<img align="left" height="64px" width="64px" style="margin-right: 40px" alt="Image of CSS Ilustration" src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/def31bcf-3c9d-465a-bb03-443a8f462c84"/>](https://github.com/mewmewdevart/CSSDrawings4Fun)
 
 **HTML and CSS | CSSDrawings4Fun** \
-[**so_long**](https://github.com/mewmewdevart/so_long) • 2023 </br>Learning CSS development through practical application, creating visually arts.
+[**CSSDrawings4Fun**](https://github.com/mewmewdevart/so_long) • 2023 - Currently </br>Learning CSS development through practical application, creating visually arts.
 
+
+[<img align="left" height="64px" width="64px" style="margin-right: 40px" alt="Image of FrontEnd Ilustration" src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/6a08135b-e768-42be-b0c0-a420b351d577"/>](https://github.com/mewmewdevart/WebDevelopment4Fun)
+
+**HTML and CSS | WebDevelopment4Fun** \
+[**WebDevelopment4Fun**](https://github.com/mewmewdevart/WebDevelopment4Fun) • 2023 - Currently </br>Learning about web development by creating web pages.
 
 
 ----

@@ -16,6 +16,14 @@ printf("My name is Larissa, but you can also call me Mewmew!\n");
 **HTML and CSS | CSSDrawings4Fun** \
 [**CSSDrawings4Fun**](https://github.com/mewmewdevart/so_long) • 2023 - Currently </br>Learning CSS development through practical application, creating visually arts.
 
+
+[<img align="left" height="54px" width="64px" style="margin-right: 40px" alt="Image of So_long Game" src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/2d050a25-cd5b-41ad-8fad-e83b4a955117"/>](https://github.com/mewmewdevart/42Projects)
+
+**Algorithms and AI, Systems Administration, Graphics etc | 42Projects** \
+[**42Projects**](https://github.com/mewmewdevart/42Projects) • 2022 - 2024 </br>Projects developed at 42 São Paulo, a programming school.
+
+
+
 <!-- 
 [<img align="left" height="64px" width="64px" style="margin-right: 40px" alt="Image of FrontEnd Ilustration" src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/6a08135b-e768-42be-b0c0-a420b351d577"/>](https://github.com/mewmewdevart/WebDevelopment4Fun)
 

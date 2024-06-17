@@ -17,10 +17,18 @@ printf("My name is Larissa, but you can also call me Mewmew!\n");
 [**CSSDrawings4Fun**](https://github.com/mewmewdevart/so_long) • 2023 - Currently </br>Learning CSS development through practical application, creating visually arts.
 
 
-[<img align="left" height="54px" width="64px" style="margin-right: 40px" alt="Image of So_long Game" src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/2d050a25-cd5b-41ad-8fad-e83b4a955117"/>](https://github.com/mewmewdevart/42Projects)
+[<img align="left" height="44px" width="64px" style="margin-right: 40px" alt="42 Ecole Logo" src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/2d050a25-cd5b-41ad-8fad-e83b4a955117"/>](https://github.com/mewmewdevart/42Projects)
 
 **Algorithms and AI, Systems Administration, Graphics etc | 42Projects** \
 [**42Projects**](https://github.com/mewmewdevart/42Projects) • 2022 - 2024 </br>Projects developed at 42 São Paulo, a programming school.
+
+[<img align="left" height="64px" width="64px" style="margin-right: 40px" alt="Image of DevSolidario logo" src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/4dd5f1fc-336b-4068-a416-6e47874a590e"/>](https://github.com/mewmewdevart/42Projects)
+
+**Web Projects | DevSolidario** \
+[**DevSolidario**](https://github.com/DevSolidario) • 2024 - Currently </br> Founder of DevSolidario, developers united in technical skills to create cost-free solutions.
+
+
+
 
 
 

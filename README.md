@@ -3,7 +3,7 @@ printf("Hello, World! 🌎");
 printf("My name is Larissa, but you can also call me Mewmew!\n");
 ```
 
-#### Projects /
+#### Personal Projects /
 
 [<img align="left" height="64px" width="64px" style="margin-right: 40px" alt="Image of So_long Game" src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/79d05977-4758-4134-94ee-7dd14b5c6a65"/>](https://github.com/mewmewdevart/so_long)
 

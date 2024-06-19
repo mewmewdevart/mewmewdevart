@@ -11,10 +11,16 @@ printf("My name is Larissa, but you can also call me Mewmew!\n");
 [**so_long**](https://github.com/mewmewdevart/so_long) • 2023 </br>A mini-game implemented in the C programming language, utilizing the 42 graphical library, MiniLibX.
 
 
+[<img align="left" height="64px" width="64px"  alt="Image of CSS Ilustration" src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/d190d548-a0fb-4e57-9cba-9a98129cd336"/>]([https://github.com/mewmewdevart/CSSDrawings4Fun](https://mewmewdevart.github.io/WebDevelopment4Fun/))
+
+**HTML/CSS and Frameworks | WebDevelopment4Fun** \
+[**WebDevelopment4Fun**]([https://github.com/mewmewdevart/so_long](https://mewmewdevart.github.io/WebDevelopment4Fun/)) • 2023 - Currently </br>Learning Web development through practical application, creating cool UI's.
+
+
 [<img align="left" height="64px" width="64px"  alt="Image of CSS Ilustration" src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/def31bcf-3c9d-465a-bb03-443a8f462c84"/>](https://github.com/mewmewdevart/CSSDrawings4Fun)
 
 **HTML and CSS | CSSDrawings4Fun** \
-[**CSSDrawings4Fun**](https://github.com/mewmewdevart/so_long) • 2023 - Currently </br>Learning CSS development through practical application, creating visually arts.
+[**CSSDrawings4Fun**]([https://github.com/mewmewdevart/so_long](https://github.com/mewmewdevart/CSSDrawings4Fun)) • 2023 - Currently </br>Learning CSS development through practical application, creating visually arts.
 
 
 [<img align="left" height="44px" width="64px" style="margin-right: 40px" alt="42 Ecole Logo" src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/2d050a25-cd5b-41ad-8fad-e83b4a955117"/>](https://github.com/mewmewdevart/42Projects)

@@ -47,9 +47,6 @@ printf("My name is Larissa, but you can also call me Mewmew!\n");
 
 ----
 
-<a href="https://twitter.com/mewmewdevart">
-  <img align="left" alt="Larissa's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/5B6EE1" />
-</a>
 <a href="https://www.instagram.com/mewmewcreator">
   <img align="left" alt="Larissa's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/5B6EE1" />
 </a>

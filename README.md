@@ -3,7 +3,7 @@ printf("Hello, World! 🌎");
 printf("My name is Larissa, but you can also call me Mewmew!\n");
 ```
 
-#### A data Full Stack Developer with love in Front-End/
+#### A Full Stack Developer with a Passion for Front-End/
 
 - 🔭 I’m currently **Open to work**
 

@@ -44,16 +44,40 @@ printf("My name is Larissa, but you can also call me Mewmew!\n");
 [**DevSolidario**](https://github.com/DevSolidario) • 2024 - Currently </br> Founder of DevSolidario, developers united in technical skills to create cost-free solutions.
 
 
+#### Technologies /
 
+[![HTML5](https://img.shields.io/badge/-HTML5-5B6EE1?style=for-the-badge&logo=html5&logoColor=f7f0ff)](#)
+[![CSS3](https://img.shields.io/badge/-CSS3-5B6EE1?style=for-the-badge&logo=css3&logoColor=f7f0ff)](#)
+[![SASS/SCSS](https://img.shields.io/badge/-SASS/SCSS-5B6EE1?style=for-the-badge&logo=sass&logoColor=f7f0ff)](#)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-5B6EE1?style=for-the-badge&logo=tailwind-css&logoColor=f7f0ff)](#)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-5B6EE1?style=for-the-badge&logo=bootstrap&logoColor=f7f0ff)](#)
+[![Styled-components](https://img.shields.io/badge/-Styled--components-5B6EE1?style=for-the-badge&logo=styled-components&logoColor=f7f0ff)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-5B6EE1?style=for-the-badge&logo=javascript&logoColor=f7f0ff)](#)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-5B6EE1?style=for-the-badge&logo=typescript&logoColor=f7f0ff)](#)
+[![React](https://img.shields.io/badge/-React-5B6EE1?style=for-the-badge&logo=react&logoColor=f7f0ff)](#)
+[![Redux](https://img.shields.io/badge/-Redux-5B6EE1?style=for-the-badge&logo=redux&logoColor=f7f0ff)](#)
+[![Context API](https://img.shields.io/badge/-Context_API-5B6EE1?style=for-the-badge&logo=react&logoColor=f7f0ff)](#)
+[![Angular](https://img.shields.io/badge/-Angular-5B6EE1?style=for-the-badge&logo=angular&logoColor=f7f0ff)](#)
+[![AngularJS](https://img.shields.io/badge/-AngularJS-5B6EE1?style=for-the-badge&logo=angularjs&logoColor=f7f0ff)](#)
+[![jQuery](https://img.shields.io/badge/-jQuery-5B6EE1?style=for-the-badge&logo=jquery&logoColor=f7f0ff)](#)
+[![Next.js](https://img.shields.io/badge/-Next.js-5B6EE1?style=for-the-badge&logo=next.js&logoColor=f7f0ff)](#)
+[![C](https://img.shields.io/badge/-C-5B6EE1?style=for-the-badge&logo=c&logoColor=f7f0ff)](#)
+[![Python](https://img.shields.io/badge/-Python-5B6EE1?style=for-the-badge&logo=python&logoColor=f7f0ff)](#)
+[![Node.js](https://img.shields.io/badge/-Node.js-5B6EE1?style=for-the-badge&logo=node.js&logoColor=f7f0ff)](#)
+[![ADVPL](https://img.shields.io/badge/-ADVPL-5B6EE1?style=for-the-badge&logo=totvs&logoColor=f7f0ff)](#)
+[![REST API](https://img.shields.io/badge/-REST_API-5B6EE1?style=for-the-badge&logo=postman&logoColor=f7f0ff)](#)
+[![Shell Script](https://img.shields.io/badge/-Shell_Script-5B6EE1?style=for-the-badge&logo=gnu-bash&logoColor=f7f0ff)](#)
+[![Git](https://img.shields.io/badge/-Git-5B6EE1?style=for-the-badge&logo=git&logoColor=f7f0ff)](#)
+[![GitHub](https://img.shields.io/badge/-GitHub-5B6EE1?style=for-the-badge&logo=github&logoColor=f7f0ff)](#)
+[![Docker](https://img.shields.io/badge/-Docker-5B6EE1?style=for-the-badge&logo=docker&logoColor=f7f0ff)](#)
+[![Cypress](https://img.shields.io/badge/-Cypress-5B6EE1?style=for-the-badge&logo=cypress&logoColor=f7f0ff)](#)
+[![Figma Dev Mode](https://img.shields.io/badge/-Figma_Dev_Mode-5B6EE1?style=for-the-badge&logo=figma&logoColor=f7f0ff)](#)
+[![CI/CD](https://img.shields.io/badge/-CI/CD-5B6EE1?style=for-the-badge&logo=github-actions&logoColor=f7f0ff)](#)
+[![Web Accessibility](https://img.shields.io/badge/-Web_Accessibility-5B6EE1?style=for-the-badge&logo=accessibility&logoColor=f7f0ff)](#)
+[![SEO](https://img.shields.io/badge/-SEO-5B6EE1?style=for-the-badge&logo=google&logoColor=f7f0ff)](#)
+[![Inbound Marketing](https://img.shields.io/badge/-Inbound_Marketing-5B6EE1?style=for-the-badge&logo=hubspot&logoColor=f7f0ff)](#)
+[![Linux](https://img.shields.io/badge/-Linux-5B6EE1?style=for-the-badge&logo=linux&logoColor=f7f0ff)](#)
 
-
-
-<!-- 
-[<img align="left" height="64px" width="64px" style="margin-right: 40px" alt="Image of FrontEnd Ilustration" src="https://github.com/mewmewdevart/mewmewdevart/assets/50052600/6a08135b-e768-42be-b0c0-a420b351d577"/>](https://github.com/mewmewdevart/WebDevelopment4Fun)
-
-**HTML and CSS | WebDevelopment4Fun** \
-[**WebDevelopment4Fun**](https://github.com/mewmewdevart/WebDevelopment4Fun) • 2023 - Currently </br>Learning about web development by creating web pages.
--->
 
 ----
 

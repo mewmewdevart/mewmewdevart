@@ -1,7 +1,13 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4fde5834-3ed5-49ae-97f4-b2d950cf80bc" alt="MEWMEW PORTRAIT" style="max-width: 100%; height: auto;">
+</p>
+
+
 ```C
 printf("Hello, World! 🌎");
 printf("My name is Larissa, but you can also call me Mewmew!\n");
 ```
+
 
 #### A Full Stack Developer with a Passion for Front-End/
 

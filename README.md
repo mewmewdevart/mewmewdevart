@@ -86,9 +86,11 @@ printf("My name is Larissa, but you can also call me Mewmew!\n");
 
 ----
 
+<!-- 
 <a href="https://www.instagram.com/mewmewcreator">
   <img align="left" alt="Larissa's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/5B6EE1" />
 </a>
+
 <a href="https://www.linkedin.com/in/mewmewdevart/">
   <img align="left" alt="Larissa's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/5B6EE1" />
 </a>
@@ -96,8 +98,9 @@ printf("My name is Larissa, but you can also call me Mewmew!\n");
 <a href="https://behance.net/moertel">
   <img align="left" alt="Larissa's Behance" width="20px" src="https://simpleicons.now.sh/behance/5B6EE1" />
 </a>
+-->
 
-| &nbsp;&nbsp;&nbsp; IT Portfolio: [https://mewmewdev.com/](https://mewmewdev.com/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work: <sub> ♡ ♡ ♡ ♡  ♡ ♡</sub>
+&nbsp;&nbsp;&nbsp; IT Portfolio: [https://mewmewdev.com/](https://mewmewdev.com/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work: <sub> ♡ ♡ ♡ ♡  ♡ ♡</sub>
 
 
 <!-- 

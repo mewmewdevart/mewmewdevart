@@ -5,12 +5,11 @@
 
 ```C
 printf("
- _  _     _ _      __      __       _    _ _ 
-| || |___| | |___  \ \    / /__ _ _| |__| | |
-| __ / -_) | / _ \  \ \/\/ / _ \ '_| / _` |_|
-|_||_\___|_|_\___/   \_/\_/\___/_| |_\__,_(_)
-);
-printf("My name is Larissa, but you can also call me Mewmew!\n");
+ _._     _,-'""`-._
+(,-.`._,'(       |\`-/|
+    `-.-' \ )-`( , o o)
+          `-    \`_`"'-  Hello Humans! \n);
+printf("My name is Larissa, but you can also call me Mewmew!");
 ```
 
 <p align="right">

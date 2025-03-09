@@ -4,7 +4,11 @@
 </p>
 
 ```C
-printf("Olá, Mundo! 🌎");
+printf("
+ _._     _,-'""`-._
+(,-.`._,'(       |\`-/|
+    `-.-' \ )-`( , o o)
+          `-    \`_`"'-  Olá Humanos! \n);
 printf("Meu nome é Larissa, mas você também pode me chamar de Mewmew!\n");
 ```
 

@@ -3,7 +3,11 @@
 </p>
 
 ```C
-printf("Bonjour, le Monde ! 🌎");
+printf("
+ _._     _,-'""`-._
+(,-.`._,'(       |\`-/|
+    `-.-' \ )-`( , o o)
+          `-    \`_`"'-  Bonjour, les humains!  \n);
 printf("Je m'appelle Larissa, mais vous pouvez aussi m'appeler Mewmew !\n");
 ```
 

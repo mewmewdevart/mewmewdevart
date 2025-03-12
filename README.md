@@ -55,6 +55,13 @@ printf("My name is Larissa, but you can also call me Mewmew!");
 [**42Projects**](https://github.com/mewmewdevart/42Projects) • 2022 - 2024 </br> Projects developed at 42 São Paulo, a programming school.
 
 
+#### Profile Status /
+
+<div align="center">  
+  <img height="192px" src="https://github-readme-stats.vercel.app/api?username=Mewmewdevart&rank_icon=github&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" /> 
+  <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mewmewdevart&rank_icon=github&layout=compact&hide_border=true&theme=tokyonight" />
+</div>
+
 <!--
 #### Profile Status /
 
@@ -81,5 +88,5 @@ printf("My name is Larissa, but you can also call me Mewmew!");
 -->
 ----
 
-IT Portfolio: [https://mewmewdev.com/](https://mewmewdev.com/)  Open Source Work: <sub> ♡ ♡ ♡ ♡ ♡</sub>
+IT Portfolio: [https://mewmewdev.com/](https://mewmewdev.com/)  | Open Source Work: <sub> ♡ ♡ ♡ ♡ ♡</sub>
 

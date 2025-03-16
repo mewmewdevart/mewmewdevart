@@ -24,7 +24,7 @@ printf("My name is Larissa, but you can also call me Mewmew!");
 
 - 📫 You can reach me on **mewmewdevart@gmail.com**
 
-- ☕ I almost forgot, ask me about **orange cats** too. 🐱🧡
+- ☕ I almost forgot, ask me about **cats** too. 🐱🧡
 
 
 #### Personal Projects /
@@ -60,7 +60,7 @@ printf("My name is Larissa, but you can also call me Mewmew!");
 Based on my public activity on Github! 🕵️‍♂️
 
 <div align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=mewmewdevart&theme=tokyonight&rank=-C&column=-1&no-frame=true&title=-Reviews"/>
+  <img height="104px" src="https://github-profile-trophy.vercel.app/?username=mewmewdevart&theme=tokyonight&rank=-C&column=-1&no-frame=true&title=-Reviews"/>
 </div>
 
 <div align="center">  

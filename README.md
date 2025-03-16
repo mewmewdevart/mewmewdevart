@@ -57,12 +57,16 @@ printf("My name is Larissa, but you can also call me Mewmew!");
 
 #### Profile Status /
 
+Based on my public activity on Github! 🕵️‍♂️
+
 <div align="center">  
-  <img height="192px" src="https://github-readme-stats.vercel.app/api?username=Mewmewdevart&rank_icon=github&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" /> 
-  <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mewmewdevart&rank_icon=github&layout=compact&hide_border=true&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mewmewdevart&theme=tokyonight&rank=-C&column=-1&no-frame=true&title=-Reviews"/>
 </div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mewmewdevart&theme=darkhub&rank=-C&column=-1&no-bg=true&no-frame=true) 
+<div align="center">  
+  <img height="192px" src="https://github-readme-stats.vercel.app/api?username=Mewmewdevart&rank_icon=github&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" /> 
+  <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mewmewdevart&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" />
+</div>
 
 
 ----

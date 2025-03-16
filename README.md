@@ -62,30 +62,9 @@ printf("My name is Larissa, but you can also call me Mewmew!");
   <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mewmewdevart&rank_icon=github&layout=compact&hide_border=true&theme=tokyonight" />
 </div>
 
-<!--
-#### Profile Status /
+![trophy](https://github-profile-trophy.vercel.app/?username=mewmewdevart&theme=darkhub&rank=-C&column=-1&no-bg=true&no-frame=true) 
 
-<div align="left">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mewmewdevart&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" /> 
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mewmewdevart&layout=compact&hide_border=true&theme=tokyonight" />
-</div>
 
-#### Languages and Tools /
-<div align="left">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" height="40" />
-          
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-</div>
--->
 ----
 
 IT Portfolio: [https://mewmewdev.com/](https://mewmewdev.com/)  | Open Source Work: <sub> ♡ ♡ ♡ ♡ ♡</sub>

@@ -51,6 +51,23 @@ printf("Je m'appelle Larissa, mais vous pouvez aussi m'appeler Mewmew !\n");
 **Algorithmes et IA, Administration Systèmes, Graphiques etc. | 42Projects** \
 [**42Projects**](https://github.com/mewmewdevart/42Projects) • 2022 - 2024 </br> Projets réalisés à 42 São Paulo, une école de programmation.
 
+#### Compétences /
+
+##### FrontEnd  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,tailwind,bootstrap,vite,materialui" alt="Frontend Skills" />
+</p>
+
+##### Backend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,prisma,python,c,postgresql,firebase" alt="Backend Skills" />
+</p>
+
+#####  Outils et Autres  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,cypress,jest,postman,figma,wordpress" alt="Tools and Others" />
+</p>
+
 ----
 
 Portfolio IT : [https://mewmewdev.com/](https://mewmewdev.com/)  Projets Open Source : <sub> ♡ ♡ ♡ ♡ ♡</sub>

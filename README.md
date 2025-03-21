@@ -54,7 +54,7 @@ printf("My name is Larissa, but you can also call me Mewmew!");
 **Algorithms and AI, Systems Administration, Graphics etc | 42Projects** \
 [**42Projects**](https://github.com/mewmewdevart/42Projects) • 2022 - 2024 </br> Projects developed at 42 São Paulo, a programming school.
 
-#### Skills/
+#### Skills /
 
 ##### FrontEnd  
 <p align="left">

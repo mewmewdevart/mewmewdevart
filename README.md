@@ -85,13 +85,13 @@ Based on my public activity on Github! 🕵️‍♂️
   <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mewmewdevart&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" />
 </div>
 
-
+<!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mewmewdevart/mewmewdevart/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mewmewdevart/mewmewdevart/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mewmewdevart/mewmewdevart/output/pacman-contribution-graph.svg">
 </picture>
-
+-->
 
 ----
 

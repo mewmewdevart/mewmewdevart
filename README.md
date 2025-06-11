@@ -18,8 +18,6 @@ printf("My name is Larissa, but you can also call me Mewmew!");
 
 #### A Full Stack Developer with a Passion for Front-End/
 
-- 🔭 I’m currently **Open to work**
-
 - 💬 Ask me about **FrontEnd, IT, OpenSource and Web Accessibility**
 
 - 📫 You can reach me on **mewmewdevart@gmail.com**

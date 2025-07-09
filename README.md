@@ -1,7 +1,11 @@
+<!-- 
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a278433e-c404-4f99-a69a-c49de601ea80" alt="Heart" style="width: 50px;">
 </p>
 
+
+-->
 
 ```C
 printf("
@@ -9,9 +13,9 @@ printf("
 (,-.`._,'(       |\`-/|
     `-.-' \ )-`( , o o)
           `-    \`_`"'-  Hello Humans! \n);
-printf("My name is Larissa, but you can also call me Mewmew!");
+printf("I don’t have much to say — I’m in a phase of metamorphosis!"");
 ```
-
+<!-- 
 <p align="right">
  // Select your preferred language:  <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md">🇧🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_FR.md">🇫🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README.md">🇺🇸</a>
  </p>
@@ -52,6 +56,7 @@ printf("My name is Larissa, but you can also call me Mewmew!");
 **Algorithms and AI, Systems Administration, Graphics etc | 42Projects** \
 [**42Projects**](https://github.com/mewmewdevart/42Projects) • 2022 - 2024 </br> Projects developed at 42 São Paulo, a programming school.
 
+
 #### Skills /
 
 ##### FrontEnd  
@@ -89,9 +94,8 @@ Based on my public activity on Github! 🕵️‍♂️
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mewmewdevart/mewmewdevart/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mewmewdevart/mewmewdevart/output/pacman-contribution-graph.svg">
 </picture>
--->
 
-----
 
 IT Portfolio: [https://mewmewdev.com/](https://mewmewdev.com/)  | Open Source Work: <sub> ♡ ♡ ♡ ♡ ♡</sub>
 
+-->

@@ -15,6 +15,24 @@ printf("
           `-    \`_`"'-  Hello Humans! \n);
 printf("I don’t have much to say — I’m in a phase of metamorphosis!"");
 ```
+
+### 🚀 Cool Stuff
+
+- 🎮 **[Sue The Real](https://suethereal.com.br/)** – Developed the institutional website and the landing page for *Hit It Back*, an Afro-Brazilian street cricket game by the Brazilian game studio.
+
+- ⚡ **[Clarke Energia](https://clarke.com.br/)** – Developed the institutional website for Clarke Energia, a company that simplifies access to the free energy market in Brazil.
+
+- 🏦 **[Banco Santander Developer Portal](https://developer.santander.com.br/)** – Collaborating with an amazing team to enhance the Developer Portal projects at Banco Santander.
+
+- 🎓 **[42 São Paulo](https://github.com/mewmewdevart/42Projects)** – Studied at 42 São Paulo and completed various projects, including a game called *[so_long](https://github.com/mewmewdevart/so_long)*.
+
+- 💻 **[Web Development for Fun](https://mewmewdevart.github.io/WebDevelopment4Fun/)** – Create websites for fun and enjoy building **[CSS illustrations](https://github.com/mewmewdevart/CSSDrawings4Fun)**.
+
+- 🐱 **[CSS Coding Dojo - Gatinho](https://github.com/42sp/dojos/tree/main/CSSDesafios/00_Gatinho)** – Participated in a CSS Coding Dojo challenge.
+
+- 🌍 **Open Source Contributions** – Contributed to open source projects, including initiatives by Codelandia, Universidade Para Todos, and various independent repositories on GitHub.
+
+
 <!-- 
 <p align="right">
  // Select your preferred language:  <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_ptBR.md">🇧🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README_FR.md">🇫🇷</a> | <a href="https://github.com/mewmewdevart/mewmewdevart/blob/main/README.md">🇺🇸</a>

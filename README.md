@@ -25,8 +25,7 @@ Passionate about **accessible**, **performant**, and **user-friendly** digital e
 - 🐱 I almost forgot — you can ask me about cats too!
 - 💬 `ping` me about **games**, **design**, **development**, **open source**, **accessibility**
 
-  <br>
-  
+
 <div align="center">
   <sub>Crafted with 💜, coffee, and a bit of pixel art.</sub>
 </div>

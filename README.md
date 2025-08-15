@@ -6,7 +6,6 @@
   </a>
   <br>
   <br>
-  <br>
   
 「 Hi, I'm Larissa (/la.ˈʁi.sa/), a front-end developer by day ☼ and a community contributor by night ☾ from São Paulo, Brazil.  」
   <p>
@@ -14,7 +13,6 @@
     <a href="https://mewmewdevart.itch.io/">Itch.io</a> • 
     <a href="https://www.instagram.com/mewmewdevart/">Instagram</a>
   </p>
-  <br>
   <br>
 </div>
 
@@ -27,7 +25,8 @@ Passionate about **accessible**, **performant**, and **user-friendly** digital e
 - 🐱 I almost forgot — you can ask me about cats too!
 - 💬 `ping` me about **games**, **design**, **development**, **open source**, **accessibility**
 
-
+  <br>
+  
 <div align="center">
   <sub>Crafted with 💜, coffee, and a bit of pixel art.</sub>
 </div>

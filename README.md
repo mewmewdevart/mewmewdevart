@@ -11,7 +11,7 @@
   <br>
   <br>
   
-  Hi, I'm Larissa, A FrontEnd Developer by day ☼ and a Community Contributor by night ☾ from São Paulo, Brazil.
+  Hi, I'm Larissa (/la.ˈʁi.sa/), A FrontEnd Developer by day ☼ and a Community Contributor by night ☾ from São Paulo, Brazil.
   <p>
     <a href="https://www.linkedin.com/in/mewmewdevart/">Linkedin</a> • 
     <a href="https://mewmewdevart.itch.io/">Itch.io</a> • 
@@ -23,10 +23,10 @@
 
 
 FrontEnd Developer II at [F1rst](https://f1rst.com.br/first/#/); <br>
-Pixel-Artist and Web Freelancer sometimes at [MewMew](https://linktr.ee/mewmewdevart);<br>
+Pixel artist and occasional web freelancer at [MewMew](https://linktr.ee/mewmewdevart);<br>
 
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.aseprite`, `.figma`
-- 🌍 I'm mostly active within the **Laravel Community**
+- 🌍 I'm mostly active within the **IT Community**
 - 🐱 I almost forgot, ask me about **cats** too.
 - 💬 `ping` me about **design**, **development**, **open source**, **accessibility**
 

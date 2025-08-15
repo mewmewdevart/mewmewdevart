@@ -27,7 +27,7 @@ Pixel artist and occasional web freelancer at [MewMew](https://linktr.ee/mewmewd
 
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.aseprite`, `.figma`
 - 🌍 I'm mostly active within the **IT Community**
-- 🐱 I almost forgot, ask me about **cats** too.
+- 🐱 I almost forgot — you can ask me about cats too!
 - 💬 `ping` me about **design**, **development**, **open source**, **accessibility**
 
 

@@ -1,9 +1,5 @@
 <div align="center">
   <br>
-  <br>
-  <br>
-  <br>
-  <br>
   <a href="https://mewmewdev.com/">
     <img width="228" src="https://github.com/user-attachments/assets/22e23175-2d58-4bdb-bb11-14a04d661258" />
 

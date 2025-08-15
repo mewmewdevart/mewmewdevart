@@ -1,3 +1,28 @@
+<div align="center">
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <a href="https://mewmewdev.com/">
+    <img width="128" src="https://github.com/user-attachments/assets/aa2ebfd3-6f7a-48e3-8be2-bc7bd08cd4a7" />
+  </a>
+  <br>
+  <br>
+  <br>
+  
+  Hi, I'm Larissa, FrontEnd Developer II from São Paulo, Brazil.
+  <p>
+    <a href="https://www.linkedin.com/in/mewmewdevart/">Linkedin</a> • 
+    <a href="https://mewmewdevart.itch.io/">Itch.io</a> • 
+    <a href="https://www.instagram.com/mewmewdevart/">Feeds</a>
+  </p>
+  <br>
+  <br>
+
+  
+  <br>
+
 <!-- 
 
 <p align="center">
@@ -5,7 +30,7 @@
 </p>
 
 
--->
+
 
 ```C
 printf("
@@ -16,22 +41,21 @@ printf("
 printf("I don’t have much to say — I’m in a phase of metamorphosis!"");
 ```
 
-### 🚀 Cool Stuff
+-->
 
-- 🎮 **[Sue The Real](https://suethereal.com.br/)** – Developed the institutional website and the landing page for *Hit It Back*, an Afro-Brazilian street cricket game by the Brazilian game studio.
 
-- ⚡ **[Clarke Energia](https://clarke.com.br/)** – Developed the institutional website for Clarke Energia, a company that simplifies access to the free energy market in Brazil.
 
-- 🏦 **[Banco Santander Developer Portal](https://developer.santander.com.br/)** – Collaborating with an amazing team to enhance the Developer Portal projects at Banco Santander.
+<!--
+###  Cool Stuff /
 
-- 🎓 **[42 São Paulo](https://github.com/mewmewdevart/42Projects)** – Studied at 42 São Paulo and completed various projects, including a game called *[so_long](https://github.com/mewmewdevart/so_long)*.
-
-- 💻 **[Web Development for Fun](https://mewmewdevart.github.io/WebDevelopment4Fun/)** – Create websites for fun and enjoy building **[CSS illustrations](https://github.com/mewmewdevart/CSSDrawings4Fun)**.
-
-- 🐱 **[CSS Coding Dojo - Gatinho](https://github.com/42sp/dojos/tree/main/CSSDesafios/00_Gatinho)** – Participated in a CSS Coding Dojo challenge.
-
-- 🌍 **Open Source Contributions** – Contributed to open source projects, including initiatives by Codelandia, Universidade Para Todos, and various independent repositories on GitHub.
-
+  **[Sue The Real](https://suethereal.com.br/)** – Developed the institutional website and the landing page for *Hit It Back*, an Afro-Brazilian street cricket game by the Brazilian game studio. <br>
+  **[Clarke Energia](https://clarke.com.br/)** – Developed the institutional website for Clarke Energia, a company that simplifies access to the free energy market in Brazil. <br>
+  **[Banco Santander Developer Portal](https://developer.santander.com.br/)** – Collaborating with an amazing team to enhance the Developer Portal projects at Banco Santander.  <br>
+  **[42 São Paulo](https://github.com/mewmewdevart/42Projects)** – Studied at 42 São Paulo and completed various projects, including a game called *[so_long](https://github.com/mewmewdevart/so_long)*.  <br>
+  **[Web Development for Fun](https://mewmewdevart.github.io/WebDevelopment4Fun/)** – Create websites for fun and enjoy building **[CSS illustrations](https://github.com/mewmewdevart/CSSDrawings4Fun)**.  <br>
+  **[CSS Coding Dojo - Gatinho](https://github.com/42sp/dojos/tree/main/CSSDesafios/00_Gatinho)** – Participated in a CSS Coding Dojo challenge.  <br>
+  **Open Source Contributions** – Contributed to open source projects, including initiatives by Codelandia, Universidade Para Todos, and various independent repositories on GitHub.  <br>
+-->
 
 <!-- 
 <p align="right">

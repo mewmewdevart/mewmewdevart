@@ -5,7 +5,8 @@
   <br>
   <br>
   <a href="https://mewmewdev.com/">
-    <img width="128" src="https://github.com/user-attachments/assets/aa2ebfd3-6f7a-48e3-8be2-bc7bd08cd4a7" />
+    <img width="228" src="https://github.com/user-attachments/assets/22e23175-2d58-4bdb-bb11-14a04d661258" />
+
   </a>
   <br>
   <br>
@@ -28,7 +29,7 @@ Pixel artist and occasional web freelancer at [MewMew](https://linktr.ee/mewmewd
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.aseprite`, `.figma`
 - 🌍 I'm mostly active within the **IT Community**
 - 🐱 I almost forgot — you can ask me about cats too!
-- 💬 `ping` me about **design**, **development**, **open source**, **accessibility**
+- 💬 `ping` me about **games**, **design**, **development**, **open source**, **accessibility**
 
 
 <!-- 
